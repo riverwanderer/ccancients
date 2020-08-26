@@ -519,7 +519,7 @@ ancients/ScenarioChooser$URLCellRenderer.class	1636	8a267b0a
 ancients/ScenarioChooser.class	21627	30bb2d53
 ancients/ScenarioSorter.class	839	fd324b03
 ancients/SetSorter.class	971	ed1ddd2c
-buildFile	361439	23f54df7
+buildFile	361645	49e3e476
 images/1.png	808	73262b7c
 images/2.png	1116	b39b217d
 images/3.png	1103	0d73a324
@@ -1019,7 +1019,7 @@ images/wall_straight.png	33388	fd16c531
 images/water.png	2009	b4769e95
 images/woods.png	41692	f96cfcb2
 info	283	d2ed255e
-moduledata	305	1903ce17
+moduledata	318	b6f48b7b
 sounds/Flip.wav	114760	96b45046
 sounds/Roll_Dice.wav	156060	58f24b87
 sounds/Shuffle.wav	68652	c16c13c2

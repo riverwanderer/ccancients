@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <data version="1">
   <version>4.1</version>
-  <VassalVersion>3.2.17</VassalVersion>
-  <dateSaved>1551876927544</dateSaved>
+  <VassalVersion>3.4.0-beta1</VassalVersion>
+  <dateSaved>1598484348892</dateSaved>
   <description>including all expansions (by CommandsAndColors.NET)</description>
   <name>Commands &amp; Colors Ancients</name>
 </data>
