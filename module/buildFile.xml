@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.15" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1006" version="4.3.24">
+<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.15" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1006" version="4.3.25">
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="box cover.JPG" title="About Commands &amp; Colors: Ancients"/>
@@ -3016,6 +3016,8 @@
             <VASSAL.build.module.PredefinedSetup description="" file="MF06.vsav" isMenu="false" name="MF06" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup description="" file="MF07.vsav" isMenu="false" name="MF07" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup description="" file="MF08.vsav" isMenu="false" name="MF08" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF09.vsav" isMenu="false" name="MF09" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF10.vsav" isMenu="false" name="MF10" useFile="true"/>
         </VASSAL.build.module.PredefinedSetup>
         <VASSAL.build.module.PredefinedSetup description="Michal Kowalczuk" isMenu="true" name="MK" useFile="true">
             <VASSAL.build.module.PredefinedSetup description="" file="MK01.vsav" isMenu="false" name="MK01" useFile="true"/>
@@ -3640,6 +3642,8 @@
             <ancients.Scenario banners="6" codex="MF06" file="MF06" name="Crannon" official="false" set="Matteo Finotto" team1="Greek" team2="Macedonian" type="normal" winner="Macedonian" year="-322"/>
             <ancients.Scenario banners="8" codex="MF07" file="MF07" name="Sentinum" official="false" set="Matteo Finotto" team1="Roman" team2="Samnite / Gaul" type="normal" winner="Roman" year="-295"/>
             <ancients.Scenario banners="8" codex="MF08" file="MF08" name="Corupedium" official="false" set="Matteo Finotto" team1=" Lysimachus" team2="Seleucid" type="normal" winner="Seleucid" year="-281"/>
+            <ancients.Scenario banners="6" codex="MF09" file="MF09" name="Elephant's Battle" official="false" set="Matteo Finotto" team1="Seleucid" team2="Galatian" type="normal" winner="Seleucid" year="-277"/>
+            <ancients.Scenario banners="6" codex="MF10" file="MF10" name="Panium" official="false" set="Matteo Finotto" team1="Ptolemaic" team2="Seleucid" type="normal" winner="Seleucid" year="-200"/>
         </VASSAL.build.module.folder.ModuleSubFolder>
         <VASSAL.build.module.folder.ModuleSubFolder desc="Michaël Lagarde" name="ML series">
             <ancients.Scenario banners="8" codex="ML01" file="ML01" name="Alesia I" official="false" set="Michaël Lagarde" team1="Gauls" team2="Roman" type="normal" winner="" year="-52"/>
