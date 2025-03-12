@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.15" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1006" version="4.3.25">
+<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.15" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1006" version="4.3.26">
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="box cover.JPG" title="About Commands &amp; Colors: Ancients"/>
