@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.16" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1006" version="4.3.27">
+<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.16" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1006" version="4.3.28">
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="box cover.JPG" title="About Commands &amp; Colors: Ancients"/>
@@ -3025,6 +3025,7 @@
             <VASSAL.build.module.PredefinedSetup description="" file="MK03.vsav" isMenu="false" name="MK03" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup description="" file="MK04.vsav" isMenu="false" name="MK04" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup description="EPIC Munda (45 BC)" file="MK05.vsav" isMenu="false" name="MK05" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="EPIC Nisibis (217 AD)" file="MK06.vsav" isMenu="false" name="MK06" useFile="true"/>
         </VASSAL.build.module.PredefinedSetup>
         <VASSAL.build.module.PredefinedSetup description="Michaël Lagarde" isMenu="true" name="ML" useFile="false">
             <VASSAL.build.module.PredefinedSetup file="ML01.vsav" isMenu="false" name="ML01" useFile="true"/>
@@ -3281,28 +3282,28 @@
             <ancients.Scenario banners="5" codex="VV01" file="VV01" name="Marcianopolis" official="true" set="Vae Victis" team1="Goths" team2="Roman" type="normal" winner="Goths" year="377"/>
             <ancients.Scenario banners="6" codex="VV02" file="VV02" name="Battle of the Willows" official="true" set="Vae Victis" team1="Goths" team2="Roman" type="normal" winner="Draw" year="377"/>
             <ancients.Scenario banners="7" codex="VV03" file="VV03" name="Adrianople" official="true" set="Vae Victis" team1="Goths" team2="Roman" type="normal" winner="Goths" year="378"/>
-            <ancients.Scenario banners="12" codex="EPIC01" file="EPIC01" name="Cannae" official="true" set="Exp 1" team1="Carthage" team2="Roman" type="epic" winner="Carthage" year="216"/>
-            <ancients.Scenario banners="13" codex="EPIC02" file="EPIC02" name="Ilipa" official="true" set="Exp 1" team1="Carthage" team2="Roman" type="epic" winner="Roman" year="206"/>
-            <ancients.Scenario banners="13" codex="EPIC03" file="EPIC03" name="Raphia" official="true" set="Exp 1" team1="Ptolemaic" team2="Seleucid" type="epic" winner="Ptolemaic" year="217"/>
-            <ancients.Scenario banners="14" codex="EPIC04" file="EPIC04" name="Zama" official="true" set="Exp 1" team1="Carthage" team2="Roman" type="epic" winner="Roman" year="202"/>
-            <ancients.Scenario banners="13" codex="EPIC05" file="EPIC05" name="Arausio" official="true" set="Exp 5" team1="Germanic Tribes" team2="Roman" type="epic" winner="Germanic Tribes" year="105"/>
-            <ancients.Scenario banners="12" codex="EPIC06" file="EPIC06" name="Dertosa" official="true" set="Exp 5" team1="Carthage" team2="Roman" type="epic" winner="Roman" year="215"/>
-            <ancients.Scenario banners="11" codex="EPIC07" file="EPIC07" name="Lake Trasimenus" official="true" set="Exp 5" team1="Carthage" team2="Roman" type="epic" winner="Carthage" year="217"/>
-            <ancients.Scenario banners="10" codex="EPIC08" file="EPIC08" name="Clusium" official="true" set="Exp 5" team1="Gauls" team2="Roman" type="epic" winner="Gauls" year="225"/>
-            <ancients.Scenario banners="14" codex="EPIC09" file="EPIC09" name="Bagradas" official="true" set="Exp 5" team1="Carthage" team2="Roman" type="epic" winner="Carthage" year="253"/>
-            <ancients.Scenario banners="15" codex="EPIC10" file="EPIC10" name="Beneventum" official="true" set="Exp 5" team1="Epirote" team2="Roman" type="epic" winner="Roman" year="275"/>
-            <ancients.Scenario banners="15" codex="EPIC11" file="EPIC11" name="Paraitacene" official="true" set="Exp 5" team1="Eumenes" team2="Antigonus" type="epic" winner="Draw" year="317"/>
-            <ancients.Scenario banners="13" codex="EPIC12" file="EPIC12" name="Hydaspes" official="true" set="Exp 5" team1="Macedonian" team2="Indian" type="epic" winner="Macedonian" year="326"/>
-            <ancients.Scenario banners="12" codex="EPIC13" file="EPIC13" name="Gaugamela" official="true" set="Exp 5" team1="Macedonian" team2="Persian" type="epic" winner="Macedonian" year="331"/>
-            <ancients.Scenario banners="9" codex="EPIC14" file="EPIC14" name="Crimissos River" official="true" set="Exp 5" team1="Carthage" team2="Greek" type="epic" winner="Greek" year="341"/>
-            <ancients.Scenario banners="10" codex="EPIC15" file="EPIC15" name="Plataea" official="true" set="Exp 5" team1="Greek" team2="Persian" type="epic" winner="Greek" year="479"/>
-            <ancients.Scenario banners="10" codex="EPIC16" file="EPIC16" name="Marathon" official="true" set="Exp 5" team1="Greek" team2="Persian" type="epic" winner="Greek" year="490"/>
-            <ancients.Scenario banners="11" codex="C3i15" file="C3i15" name="Leuctra" official="true" set="C3i Magazine" team1="Theban" team2="Spartan" type="epic" winner="Theban" year="371"/>
-            <ancients.Scenario banners="13" codex="C3i16" file="C3i16" name="Asculum" official="true" set="C3i Magazine" team1="Epirote" team2="Roman" type="epic" winner="Roman" year="279"/>
+            <ancients.Scenario banners="12" codex="EPIC01" file="EPIC01" name="Cannae" official="true" set="Exp 1" team1="Carthage" team2="Roman" type="epic" winner="Carthage" year="-216"/>
+            <ancients.Scenario banners="13" codex="EPIC02" file="EPIC02" name="Ilipa" official="true" set="Exp 1" team1="Carthage" team2="Roman" type="epic" winner="Roman" year="-206"/>
+            <ancients.Scenario banners="13" codex="EPIC03" file="EPIC03" name="Raphia" official="true" set="Exp 1" team1="Ptolemaic" team2="Seleucid" type="epic" winner="Ptolemaic" year="-217"/>
+            <ancients.Scenario banners="14" codex="EPIC04" file="EPIC04" name="Zama" official="true" set="Exp 1" team1="Carthage" team2="Roman" type="epic" winner="Roman" year="-202"/>
+            <ancients.Scenario banners="13" codex="EPIC05" file="EPIC05" name="Arausio" official="true" set="Exp 5" team1="Germanic Tribes" team2="Roman" type="epic" winner="Germanic Tribes" year="-105"/>
+            <ancients.Scenario banners="12" codex="EPIC06" file="EPIC06" name="Dertosa" official="true" set="Exp 5" team1="Carthage" team2="Roman" type="epic" winner="Roman" year="-215"/>
+            <ancients.Scenario banners="11" codex="EPIC07" file="EPIC07" name="Lake Trasimenus" official="true" set="Exp 5" team1="Carthage" team2="Roman" type="epic" winner="Carthage" year="-217"/>
+            <ancients.Scenario banners="10" codex="EPIC08" file="EPIC08" name="Clusium" official="true" set="Exp 5" team1="Gauls" team2="Roman" type="epic" winner="Gauls" year="-225"/>
+            <ancients.Scenario banners="14" codex="EPIC09" file="EPIC09" name="Bagradas" official="true" set="Exp 5" team1="Carthage" team2="Roman" type="epic" winner="Carthage" year="-253"/>
+            <ancients.Scenario banners="15" codex="EPIC10" file="EPIC10" name="Beneventum" official="true" set="Exp 5" team1="Epirote" team2="Roman" type="epic" winner="Roman" year="-275"/>
+            <ancients.Scenario banners="15" codex="EPIC11" file="EPIC11" name="Paraitacene" official="true" set="Exp 5" team1="Eumenes" team2="Antigonus" type="epic" winner="Draw" year="-317"/>
+            <ancients.Scenario banners="13" codex="EPIC12" file="EPIC12" name="Hydaspes" official="true" set="Exp 5" team1="Macedonian" team2="Indian" type="epic" winner="Macedonian" year="-326"/>
+            <ancients.Scenario banners="12" codex="EPIC13" file="EPIC13" name="Gaugamela" official="true" set="Exp 5" team1="Macedonian" team2="Persian" type="epic" winner="Macedonian" year="-331"/>
+            <ancients.Scenario banners="9" codex="EPIC14" file="EPIC14" name="Crimissos River" official="true" set="Exp 5" team1="Carthage" team2="Greek" type="epic" winner="Greek" year="-341"/>
+            <ancients.Scenario banners="10" codex="EPIC15" file="EPIC15" name="Plataea" official="true" set="Exp 5" team1="Greek" team2="Persian" type="epic" winner="Greek" year="-479"/>
+            <ancients.Scenario banners="10" codex="EPIC16" file="EPIC16" name="Marathon" official="true" set="Exp 5" team1="Greek" team2="Persian" type="epic" winner="Greek" year="-490"/>
+            <ancients.Scenario banners="11" codex="C3i15" file="C3i15" name="Leuctra" official="true" set="C3i Magazine" team1="Theban" team2="Spartan" type="epic" winner="Theban" year="-371"/>
+            <ancients.Scenario banners="13" codex="C3i16" file="C3i16" name="Asculum" official="true" set="C3i Magazine" team1="Epirote" team2="Roman" type="epic" winner="Roman" year="-279"/>
             <ancients.Scenario banners="16" codex="C3i19" file="C3i19" name="Adrianople" official="true" set="C3i Magazine" team1="Goths" team2="Roman" type="epic" winner="Roman" year="378"/>
             <ancients.Scenario banners="16" codex="C3i20" file="C3i20" name="Adrianople" official="true" set="C3i Magazine" team1="Goths" team2="Roman" type="epic" winner="Roman" year="378"/>
             <ancients.Scenario banners="12" codex="C3i21" file="C3i21" name="Argentoratum" official="true" set="C3i Magazine" team1="Alamanni" team2="Roman" type="epic" winner="Roman" year="357"/>
-            <ancients.Scenario banners="15" codex="C3i22" file="C3i22" name="Paraitacene" official="true" set="C3i Magazine" team1="Eumenes" team2="Antigonus" type="epic" winner="Draw" year="317"/>
+            <ancients.Scenario banners="15" codex="C3i22" file="C3i22" name="Paraitacene" official="true" set="C3i Magazine" team1="Eumenes" team2="Antigonus" type="epic" winner="Draw" year="-317"/>
         </VASSAL.build.module.folder.ModuleSubFolder>
         <VASSAL.build.module.folder.ModuleSubFolder desc="Cross-Atlantic league" name="CACCA">
             <ancients.Scenario banners="6" codex="201" file="201" name="01/06 Clusium" official="false" set="CACCA25" team1="Gauls" team2="Roman" type="normal" winner="Gauls" year="-225"/>
@@ -3659,6 +3660,7 @@
             <ancients.Scenario banners="14" codex="MK03" file="MK03" name="Pharsalus" official="false" set="Michal Kowalczuk" team1="Pompeian" team2="Caesarian" type="epic" winner="Caesarian" year="-48"/>
             <ancients.Scenario banners="14" codex="MK04" file="MK04" name="Thapsus" official="false" set="Michal Kowalczuk" team1="Pompeian" team2="Caesarian" type="epic" winner="Caesarian" year="-48"/>
             <ancients.Scenario banners="14" codex="MK05" file="MK05" name="Munda" official="false" set="Michal Kowalczuk" team1="Pompeian" team2="Caesarian" type="epic" winner="Caesarian" year="-45"/>
+            <ancients.Scenario banners="14" codex="MK06" file="MK06" name="Nisibis" official="false" set="Michal Kowalczuk" team1="Parthian" team2="Roman" type="epic" winner="Parthian" year="217"/>
         </VASSAL.build.module.folder.ModuleSubFolder>
         <VASSAL.build.module.folder.ModuleSubFolder desc="Miguel Marqués" name="MM series">
             <ancients.Scenario banners="8" codex="MM00" file="MM00" name="Troy" official="false" set="Miguel Marqués" team1="Trojan" team2="Achaean" type="normal" winner="" year="-1184"/>
