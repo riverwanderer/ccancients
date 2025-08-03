@@ -119,7 +119,7 @@
 611.vsav	127980	a8e29d85
 612.vsav	152394	daef9564
 613.vsav	196764	1c1aeac6
-614.vsav	138261	3e3337d4
+614.vsav	195863	d3915bc8
 615.vsav	63032	776f4d4a
 616.vsav	86525	063c1894
 617.vsav	168802	85527fc5
@@ -1817,7 +1817,7 @@ ancients/ScenarioChooser.class	19785	6b327456
 ancients/ScenarioSorter.class	839	26ab1c6f
 ancients/SetSorter.class	1004	612fad5d
 ancients/VassalTools.class	1789	7c2e1343
-buildFile.xml	1126818	5d32372f
+buildFile.xml	1126818	7e848197
 images/AB32.png	3369	c501f25b
 images/ABC32.png	3918	925e3648
 images/Blue Mat.jpg	540510	8243783a
@@ -2438,7 +2438,7 @@ images_it/epic_card_rally.gif	122956	0421fc40
 images_it/epic_card_retire_and_reform.gif	122939	5be410a8
 incompatible.vsav	57931	fae4cd71
 info	283	d2ed255e
-moduledata	570	813afa3b
+moduledata	570	9cc8f814
 sounds/.DS_Store	6148	6d88006a
 sounds/1bell.mp3	17082	a1deac06
 sounds/1hits.mp3	7357	8c606c74
