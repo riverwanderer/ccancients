@@ -172,6 +172,7 @@ AC37.vsav	159087	8fca6f9d
 AC38.vsav	165193	49617e1c
 AC39.vsav	165550	a3da2fd1
 AC40.vsav	103428	b2695b50
+AC41.vsav	167494	356a8fa5
 AT01.vsav	138176	335ef0fc
 AT02.vsav	111894	5d060d2b
 BR01.vsav	101630	73be2fb5
@@ -463,12 +464,26 @@ MF07.vsav	210840	dd4a9586
 MF08.vsav	154476	96d1871d
 MF09.vsav	172764	dc20eef4
 MF10.vsav	176619	201275e2
+MF11 EPIC Delium.vsav	548222	454d6f45
+MF12 EPIC Mantinea.vsav	643919	2233df63
+MF13 EPIC Akragas.vsav	575468	073fae08
+MF14 EPIC Coronea.vsav	589009	68fe28e9
+MF15 EPIC Cronium.vsav	654851	fb086d28
+MF16 EPIC Chaeronea.vsav	634781	8bcf1991
+MF17 EPIC Granicus.vsav	629315	9df0b3e0
+MF18 EPIC Issus.vsav	689061	74f5e457
+MF19 EPIC Jaxartes.vsav	586252	6aa52bf9
+MF20 EPIC Hellespont.vsav	595709	146fbdda
+MF21 EPIC Gabiene.vsav	676064	18d595a4
+MF22 EPIC Ipsus.vsav	530333	d4679f5e
 MK01.vsav	582532	5ba4314b
 MK02.vsav	474080	c1da3b3a
 MK03.vsav	578157	6a164d31
 MK04.vsav	618491	04c79c31
 MK05.vsav	640426	147c5074
-MK06.vsav	666146	c4c8a143
+MK06.vsav	666670	12378330
+MK07.vsav	576998	579b5aba
+MK08.vsav	644630	79316f42
 ML01.vsav	238801	27a38953
 ML02.vsav	253841	dd9caf36
 ML03.vsav	133222	3ec75762
@@ -572,15 +587,15 @@ __MACOSX/._003.vsav	300	2926d21f
 __MACOSX/._004.vsav	300	cdf4f099
 __MACOSX/._005.vsav	300	17534278
 __MACOSX/._006.vsav	300	3fb7bd71
-__MACOSX/._007.vsav	300	ea440317
-__MACOSX/._008.vsav	300	d52067e0
+__MACOSX/._007.vsav	300	8dc1b484
+__MACOSX/._008.vsav	300	876b1abe
 __MACOSX/._009.vsav	300	bc4a519d
 __MACOSX/._010.vsav	300	fa44244b
 __MACOSX/._011.vsav	300	d8dbe553
-__MACOSX/._012.vsav	298	22a1e633
+__MACOSX/._012.vsav	300	52c97610
 __MACOSX/._013.vsav	300	005701b0
 __MACOSX/._014.vsav	300	7fbf74f5
-__MACOSX/._015.vsav	299	e1d09e35
+__MACOSX/._015.vsav	300	0443fcac
 __MACOSX/._101.vsav	210	dec9a611
 __MACOSX/._102.vsav	210	9fd09b05
 __MACOSX/._103.vsav	210	3970f4cd
@@ -595,11 +610,11 @@ __MACOSX/._111.vsav	210	decd3cc4
 __MACOSX/._112.vsav	210	b5cea225
 __MACOSX/._113.vsav	210	0ba976c2
 __MACOSX/._114.vsav	209	91a29b30
-__MACOSX/._115.vsav	210	956d83bc
+__MACOSX/._115.vsav	210	c773b6ff
 __MACOSX/._116.vsav	210	62c7da6a
 __MACOSX/._117.vsav	210	0a2bece7
-__MACOSX/._118.vsav	210	88d4d8cd
-__MACOSX/._119.vsav	210	c3e70900
+__MACOSX/._118.vsav	210	534c3f73
+__MACOSX/._119.vsav	210	05c6b5cf
 __MACOSX/._120.vsav	210	e1ef3c78
 __MACOSX/._121.vsav	210	45f3f1d2
 __MACOSX/._122.vsav	210	f2ce366c
@@ -616,15 +631,15 @@ __MACOSX/._208.vsav	209	bb022742
 __MACOSX/._209.vsav	210	5ae52497
 __MACOSX/._210.vsav	210	fbd6dbab
 __MACOSX/._211.vsav	210	a7f265f8
-__MACOSX/._212.vsav	210	d4b602d5
+__MACOSX/._212.vsav	210	f5e8ca6e
 __MACOSX/._213.vsav	210	344d50d6
 __MACOSX/._214.vsav	210	f4406b51
-__MACOSX/._215.vsav	210	cdfb8053
+__MACOSX/._215.vsav	210	dace775b
 __MACOSX/._216.vsav	209	59b7039d
-__MACOSX/._217.vsav	210	9b66bc6c
+__MACOSX/._217.vsav	210	66d32776
 __MACOSX/._218.vsav	210	484e172a
 __MACOSX/._219.vsav	210	e340b24c
-__MACOSX/._220.vsav	210	c3a16d4b
+__MACOSX/._220.vsav	210	12c2f607
 __MACOSX/._221.vsav	210	648398a6
 __MACOSX/._222.vsav	210	1d2faf2f
 __MACOSX/._223.vsav	210	bf640c1f
@@ -633,8 +648,8 @@ __MACOSX/._302.vsav	210	ecd29863
 __MACOSX/._303.vsav	209	083dd99b
 __MACOSX/._304.vsav	210	409aa70f
 __MACOSX/._305.vsav	210	36e64437
-__MACOSX/._306.vsav	210	fc94db74
-__MACOSX/._307.vsav	210	ff646617
+__MACOSX/._306.vsav	210	8c44fde7
+__MACOSX/._307.vsav	210	ef424308
 __MACOSX/._308.vsav	210	d3b26641
 __MACOSX/._309.vsav	210	5de5dad6
 __MACOSX/._310.vsav	210	4f4a73be
@@ -646,18 +661,18 @@ __MACOSX/._315.vsav	209	95ea782d
 __MACOSX/._316.vsav	210	85e97cd6
 __MACOSX/._317.vsav	210	52f7b21a
 __MACOSX/._318.vsav	210	1cf87d17
-__MACOSX/._319.vsav	210	3ac62de5
+__MACOSX/._319.vsav	210	44487cbb
 __MACOSX/._401.vsav	210	165649f8
-__MACOSX/._402.vsav	210	e2dd3d66
-__MACOSX/._403.vsav	210	ce0b3d30
+__MACOSX/._402.vsav	210	187b746b
+__MACOSX/._403.vsav	210	61c46fb4
 __MACOSX/._404.vsav	210	2349131e
 __MACOSX/._405.vsav	210	0b6f506a
 __MACOSX/._406.vsav	210	9881b78c
 __MACOSX/._407.vsav	210	75c399a2
-__MACOSX/._408.vsav	210	61f5db74
+__MACOSX/._408.vsav	210	e2ffa5f0
 __MACOSX/._409.vsav	210	b5ca38f0
 __MACOSX/._410.vsav	210	a0a7d3a4
-__MACOSX/._411.vsav	210	4ed7fc94
+__MACOSX/._411.vsav	210	4ef1fed7
 __MACOSX/._412.vsav	210	5f4a54e2
 __MACOSX/._413.vsav	210	e3539e1a
 __MACOSX/._414.vsav	210	7387db6e
@@ -688,42 +703,42 @@ __MACOSX/._614.vsav	210	7394f738
 __MACOSX/._615.vsav	210	584e3076
 __MACOSX/._616.vsav	210	6fe95227
 __MACOSX/._617.vsav	210	853c7628
-__MACOSX/._618.vsav	210	9896010f
+__MACOSX/._618.vsav	210	71d764be
 __MACOSX/._619.vsav	210	0ec4baca
-__MACOSX/._620.vsav	210	927acb7e
+__MACOSX/._620.vsav	210	e8550bca
 __MACOSX/._621.vsav	210	b061d250
 __MACOSX/._622.vsav	210	b2cac6b1
 __MACOSX/._623.vsav	210	e4404c0d
 __MACOSX/._624.vsav	210	e1fc102e
 __MACOSX/._625.vsav	210	f3440fc5
 __MACOSX/._626.vsav	210	207b1200
-__MACOSX/._AC01.vsav	210	a0e52d3a
+__MACOSX/._AC01.vsav	210	96ee7481
 __MACOSX/._AC02.vsav	210	4bb609c5
 __MACOSX/._AC03.vsav	210	7dc22379
 __MACOSX/._AC04.vsav	210	9751633d
 __MACOSX/._AC05.vsav	210	a625b7c0
-__MACOSX/._AC06.vsav	210	76e2b4ea
+__MACOSX/._AC06.vsav	210	c064fe3d
 __MACOSX/._AC07.vsav	210	22093546
 __MACOSX/._AC08.vsav	209	e41a8e2a
 __MACOSX/._AC09.vsav	210	4de1675f
-__MACOSX/._AC10.vsav	210	a444bcd0
+__MACOSX/._AC10.vsav	210	d760bdf5
 __MACOSX/._AC11.vsav	210	251e7d84
 __MACOSX/._AC12.vsav	210	5cb24a0d
 __MACOSX/._AC13.vsav	209	5821ca0c
 __MACOSX/._AC14.vsav	210	0a38c0b1
 __MACOSX/._AC15.vsav	210	a5ce8579
-__MACOSX/._AC16.vsav	209	64e96db3
-__MACOSX/._AC17.vsav	210	852f5a7e
-__MACOSX/._AC18.vsav	210	9f8149cd
+__MACOSX/._AC16.vsav	210	ff514802
+__MACOSX/._AC17.vsav	210	a9dbc2be
+__MACOSX/._AC18.vsav	210	59f5bd1f
 __MACOSX/._AC19.vsav	300	32c8e7f4
-__MACOSX/._AC20.vsav	210	b0f62630
+__MACOSX/._AC20.vsav	210	81ea3749
 __MACOSX/._AC21.vsav	210	b7f242a4
 __MACOSX/._AC22.vsav	210	777f3bc0
-__MACOSX/._AC23.vsav	210	338b883f
+__MACOSX/._AC23.vsav	210	b466031a
 __MACOSX/._AC24.vsav	210	749093ac
 __MACOSX/._AC25.vsav	210	221a1910
-__MACOSX/._AC26.vsav	210	276c5ac2
-__MACOSX/._AC27.vsav	210	0badec17
+__MACOSX/._AC26.vsav	210	d77391a3
+__MACOSX/._AC27.vsav	210	81f91b1f
 __MACOSX/._AC28.vsav	210	b121f408
 __MACOSX/._AC29.vsav	209	bc3f76fc
 __MACOSX/._AC30.vsav	210	e629e491
@@ -741,9 +756,9 @@ __MACOSX/._AT01.vsav	210	90519d7c
 __MACOSX/._AT02.vsav	210	cb626bed
 __MACOSX/._BR01.vsav	210	e7ab7eb4
 __MACOSX/._BR02.vsav	210	80429676
-__MACOSX/._BR03.vsav	210	f2d980ef
+__MACOSX/._BR03.vsav	210	96fd58d7
 __MACOSX/._BR04.vsav	210	e178c818
-__MACOSX/._BR05.vsav	210	ba5812df
+__MACOSX/._BR05.vsav	210	7c79ae10
 __MACOSX/._BR06.vsav	210	f3572393
 __MACOSX/._BR07.vsav	210	b7612c11
 __MACOSX/._BS01.vsav	210	b072fe06
@@ -752,7 +767,7 @@ __MACOSX/._BS03.vsav	210	321a3e4c
 __MACOSX/._BS04.vsav	210	e1eba6ad
 __MACOSX/._BS05.vsav	210	06c19ac4
 __MACOSX/._BS06.vsav	210	8ae8384c
-__MACOSX/._BS07.vsav	300	52fc5805
+__MACOSX/._BS07.vsav	300	9ac5f74c
 __MACOSX/._BS08.vsav	210	805520f5
 __MACOSX/._BS09.vsav	210	f4534707
 __MACOSX/._BS10.vsav	210	df9aac1f
@@ -771,19 +786,19 @@ __MACOSX/._C3i11.vsav	210	b5dd8e73
 __MACOSX/._C3i12.vsav	210	9f544333
 __MACOSX/._C3i13.vsav	210	f6efe565
 __MACOSX/._C3i14.vsav	210	3c5fc65b
-__MACOSX/._C3i15.vsav	300	28b7646c
+__MACOSX/._C3i15.vsav	300	af49c31f
 __MACOSX/._C3i16.vsav	300	564a7f6c
 __MACOSX/._C3i17.vsav	210	06566ea4
 __MACOSX/._C3i18.vsav	210	4af62f9d
-__MACOSX/._C3i19.vsav	300	7e2ec286
+__MACOSX/._C3i19.vsav	300	13549332
 __MACOSX/._C3i20.vsav	300	73d1dae0
 __MACOSX/._C3i21.vsav	300	e44ba612
-__MACOSX/._C3i22.vsav	300	3c50b691
+__MACOSX/._C3i22.vsav	300	45de198e
 __MACOSX/._CCA CDG Solo Sheet.pdf	209	cad2e6fe
 __MACOSX/._CCA Tutorial.vlog	210	047d38a6
 __MACOSX/._Commands & Colors Ancients Module User Guide.pdf	210	b2d9eae7
 __MACOSX/._DC01.vsav	210	ec564055
-__MACOSX/._DC02.vsav	210	e16be44e
+__MACOSX/._DC02.vsav	210	2af324ac
 __MACOSX/._DC03.vsav	210	de4d7e27
 __MACOSX/._DC04.vsav	210	b87344dd
 __MACOSX/._DC05.vsav	210	f1fc3772
@@ -796,27 +811,27 @@ __MACOSX/._DC11.vsav	210	a2dd576e
 __MACOSX/._DG01.vsav	210	036a7064
 __MACOSX/._DG02.vsav	210	2ad526ef
 __MACOSX/._DG03.vsav	210	e453605b
-__MACOSX/._DG04.vsav	210	856da4e0
+__MACOSX/._DG04.vsav	210	c077d26b
 __MACOSX/._DG05.vsav	210	65544a9e
 __MACOSX/._DG06.vsav	210	e35704cf
 __MACOSX/._DG07.vsav	210	9f50d9e6
-__MACOSX/._DG08.vsav	210	5d659835
+__MACOSX/._DG08.vsav	210	3df76764
 __MACOSX/._DG09.vsav	210	34daa4b6
 __MACOSX/._DG10.vsav	210	f457ddd2
 __MACOSX/._EPIC01.vsav	300	fd4040df
-__MACOSX/._EPIC02.vsav	300	03762cf8
+__MACOSX/._EPIC02.vsav	300	907c7520
 __MACOSX/._EPIC03.vsav	300	2866f447
 __MACOSX/._EPIC04.vsav	300	e86f5515
 __MACOSX/._EPIC05.vsav	299	311f5980
-__MACOSX/._EPIC06.vsav	300	10910044
+__MACOSX/._EPIC06.vsav	300	9dc193d8
 __MACOSX/._EPIC07.vsav	300	05f871c5
 __MACOSX/._EPIC08.vsav	300	56ca3d8f
-__MACOSX/._EPIC09.vsav	300	5bb5670a
+__MACOSX/._EPIC09.vsav	300	2b766dcf
 __MACOSX/._EPIC10.vsav	300	1086b6c7
 __MACOSX/._EPIC11.vsav	300	7eec7efb
 __MACOSX/._EPIC12.vsav	300	0040b733
 __MACOSX/._EPIC13.vsav	300	ec8499ed
-__MACOSX/._EPIC14.vsav	300	bf785083
+__MACOSX/._EPIC14.vsav	300	fed40161
 __MACOSX/._EPIC15.vsav	300	12fc320d
 __MACOSX/._EPIC16.vsav	300	8946272d
 __MACOSX/._GB01.vsav	210	4a72f7ab
@@ -836,59 +851,59 @@ __MACOSX/._GB14.vsav	210	85fa5080
 __MACOSX/._GB15.vsav	210	a076438f
 __MACOSX/._GC01.vsav	300	9468883c
 __MACOSX/._GC02.vsav	300	d5e2db9d
-__MACOSX/._GC03.vsav	300	561bada4
+__MACOSX/._GC03.vsav	300	e369c0c5
 __MACOSX/._GC04.vsav	300	5bf30341
 __MACOSX/._GC05.vsav	210	72d4d160
 __MACOSX/._GI01.vsav	210	98479124
 __MACOSX/._GI02.vsav	210	0bef1289
-__MACOSX/._GI03.vsav	210	b7e16ef2
-__MACOSX/._GI04.vsav	210	a7b09b66
+__MACOSX/._GI03.vsav	210	435f3479
+__MACOSX/._GI04.vsav	210	9b539279
 __MACOSX/._JB01.vsav	300	836ccbf4
-__MACOSX/._JB02.vsav	299	fcd4eba1
+__MACOSX/._JB02.vsav	300	b5f0662f
 __MACOSX/._JB03.vsav	300	797fee0f
 __MACOSX/._JB04.vsav	300	ab4e1255
-__MACOSX/._JB05.vsav	300	f44b814e
+__MACOSX/._JB05.vsav	300	e37aec93
 __MACOSX/._JB06.vsav	300	9c7a1eb1
 __MACOSX/._JB07.vsav	300	aee16220
 __MACOSX/._JB08.vsav	300	d5e64148
-__MACOSX/._JB09.vsav	300	eee592fd
-__MACOSX/._JB10.vsav	300	d1d4be17
+__MACOSX/._JB09.vsav	300	dc4f5aac
+__MACOSX/._JB10.vsav	299	c3c22c2e
 __MACOSX/._JB11.vsav	300	caf0940d
 __MACOSX/._JB12.vsav	300	5f41befd
 __MACOSX/._JB13.vsav	300	83aaed5c
 __MACOSX/._JB14.vsav	300	edc4bfb5
 __MACOSX/._JB15.vsav	300	1d6a82f7
-__MACOSX/._JB16.vsav	300	4cb124c2
+__MACOSX/._JB16.vsav	300	c6f6ff9c
 __MACOSX/._JD01.vsav	300	66ede37c
 __MACOSX/._JD02.vsav	300	3f662d5a
 __MACOSX/._JD03.vsav	300	f9f2fd63
 __MACOSX/._JD04.vsav	300	bb4e3509
 __MACOSX/._JD05.vsav	300	edd793e3
-__MACOSX/._JD06.vsav	300	0095bdcd
+__MACOSX/._JD06.vsav	300	45cd35d8
 __MACOSX/._JD07.vsav	300	4476b8b1
-__MACOSX/._JD08.vsav	299	0dd7fe3f
+__MACOSX/._JD08.vsav	300	8ac5d010
 __MACOSX/._JD09.vsav	300	c275f6e0
 __MACOSX/._JD10.vsav	300	25cca43c
 __MACOSX/._JD100.vsav	210	f444f184
-__MACOSX/._JD101.vsav	300	17864886
+__MACOSX/._JD101.vsav	300	dc5c76fa
 __MACOSX/._JD102.vsav	300	408ac2ca
 __MACOSX/._JD103.vsav	300	837fe7a2
 __MACOSX/._JD104.vsav	300	15f85699
 __MACOSX/._JD105.vsav	300	0845973d
-__MACOSX/._JD106.vsav	300	f9e1d135
+__MACOSX/._JD106.vsav	300	cc4f7df0
 __MACOSX/._JD107.vsav	300	6e7badc7
 __MACOSX/._JD108.vsav	300	d5f56d1e
 __MACOSX/._JD109.vsav	300	71e9a0b4
 __MACOSX/._JD11.vsav	300	16136420
-__MACOSX/._JD110.vsav	300	f34fe5da
-__MACOSX/._JD111.vsav	300	17d79a4e
+__MACOSX/._JD110.vsav	300	2c65bfd8
+__MACOSX/._JD111.vsav	300	f47eaf5b
 __MACOSX/._JD112.vsav	300	4372dc25
 __MACOSX/._JD113.vsav	300	99d1f411
 __MACOSX/._JD114.vsav	300	e86bcfc0
 __MACOSX/._JD115.vsav	300	085221be
 __MACOSX/._JD116.vsav	300	1aea3e55
 __MACOSX/._JD117.vsav	299	90005f89
-__MACOSX/._JD118.vsav	300	d88ead4e
+__MACOSX/._JD118.vsav	300	d1f2bc54
 __MACOSX/._JD119.vsav	300	f878c4ca
 __MACOSX/._JD12.vsav	300	99c64292
 __MACOSX/._JD120.vsav	300	aef24e76
@@ -901,9 +916,9 @@ __MACOSX/._JD126.vsav	300	d562997e
 __MACOSX/._JD127.vsav	300	bb5d195f
 __MACOSX/._JD128.vsav	300	5ed8ab02
 __MACOSX/._JD129.vsav	300	4c60b4e9
-__MACOSX/._JD13.vsav	300	7e68a6cd
-__MACOSX/._JD130.vsav	300	bcdda5fd
-__MACOSX/._JD131.vsav	300	e7ee536c
+__MACOSX/._JD13.vsav	300	a2f425e7
+__MACOSX/._JD130.vsav	300	7aef3564
+__MACOSX/._JD131.vsav	300	04476679
 __MACOSX/._JD132.vsav	300	69eca7e6
 __MACOSX/._JD133.vsav	300	99c2d847
 __MACOSX/._JD134.vsav	300	ba1d3f07
@@ -920,7 +935,7 @@ __MACOSX/._JD143.vsav	300	1af91203
 __MACOSX/._JD144.vsav	300	bc4ecb48
 __MACOSX/._JD145.vsav	300	579dad54
 __MACOSX/._JD146.vsav	300	dfdf81c7
-__MACOSX/._JD147.vsav	300	4ca69241
+__MACOSX/._JD147.vsav	300	2c76938e
 __MACOSX/._JD148.vsav	300	5465b3bb
 __MACOSX/._JD149.vsav	300	947ba46a
 __MACOSX/._JD15.vsav	300	ac595a97
@@ -933,7 +948,7 @@ __MACOSX/._JD19.vsav	300	cc7a53e5
 __MACOSX/._JD20.vsav	300	936ceca8
 __MACOSX/._JD21.vsav	300	27632a08
 __MACOSX/._JD22.vsav	300	a9e506b4
-__MACOSX/._JD23.vsav	210	c5b4fd4f
+__MACOSX/._JD23.vsav	210	02c2d15b
 __MACOSX/._JD24.vsav	300	bbcaed3f
 __MACOSX/._JD25.vsav	300	fad3d02b
 __MACOSX/._JD26.vsav	209	ef76e073
@@ -1011,11 +1026,11 @@ __MACOSX/._JD97.vsav	210	3fb8cdbb
 __MACOSX/._JD98.vsav	210	dc750473
 __MACOSX/._JD99.vsav	210	1ec00743
 __MACOSX/._JR01.vsav	300	02ef3907
-__MACOSX/._JR02.vsav	300	0476d2b9
+__MACOSX/._JR02.vsav	300	7afc1932
 __MACOSX/._JT01.vsav	210	5f4ece37
 __MACOSX/._KB01.vsav	300	eac441f4
-__MACOSX/._KP01.vsav	299	784fdc9e
-__MACOSX/._KP02.vsav	300	cb7e3771
+__MACOSX/._KP01.vsav	300	877836e8
+__MACOSX/._KP02.vsav	299	5e158d98
 __MACOSX/._KR01.vsav	300	9c6932e7
 __MACOSX/._KR02.vsav	300	d74d55a9
 __MACOSX/._MF01.vsav	210	c52f3076
@@ -1026,22 +1041,38 @@ __MACOSX/._MF05.vsav	210	8755deb4
 __MACOSX/._MF06.vsav	210	84b2d554
 __MACOSX/._MF07.vsav	210	52e49e4c
 __MACOSX/._MF08.vsav	210	b860688b
-__MACOSX/._MK01.vsav	300	c220befd
+__MACOSX/._MF09.vsav	210	61d743e2
+__MACOSX/._MF10.vsav	210	3059adca
+__MACOSX/._MF11 EPIC Delium.vsav	210	f2ff82ac
+__MACOSX/._MF12 EPIC Mantinea.vsav	210	7b6ee6d2
+__MACOSX/._MF13 EPIC Akragas.vsav	210	f5fbe638
+__MACOSX/._MF14 EPIC Coronea.vsav	210	2df74038
+__MACOSX/._MF15 EPIC Cronium.vsav	210	6c79894c
+__MACOSX/._MF16 EPIC Chaeronea.vsav	210	a4750810
+__MACOSX/._MF17 EPIC Granicus.vsav	210	aedfa62a
+__MACOSX/._MF18 EPIC Issus.vsav	210	b4752f4c
+__MACOSX/._MF19 EPIC Jaxartes.vsav	210	5ef1d98b
+__MACOSX/._MF20 EPIC Hellespont.vsav	210	a3716c84
+__MACOSX/._MF21 EPIC Gabiene.vsav	210	087b5337
+__MACOSX/._MF22 EPIC Ipsus.vsav	209	8b105a32
+__MACOSX/._MK01.vsav	300	bf49e443
 __MACOSX/._MK02.vsav	210	4d23db22
 __MACOSX/._MK03.vsav	210	046e14f0
 __MACOSX/._MK04.vsav	210	93b6969c
 __MACOSX/._MK05.vsav	210	84a1f902
-__MACOSX/._ML01.vsav	210	0bba5a94
+__MACOSX/._MK07.vsav	210	e5e8ed32
+__MACOSX/._MK08.vsav	210	6c6aa51a
+__MACOSX/._ML01.vsav	210	aecc8a7c
 __MACOSX/._ML02.vsav	210	c9cde5d9
 __MACOSX/._ML03.vsav	209	9182ac8b
 __MACOSX/._ML04.vsav	210	c1df7354
 __MACOSX/._ML05.vsav	210	c467b5a2
-__MACOSX/._ML06.vsav	210	d3b6fc94
+__MACOSX/._ML06.vsav	210	71c0d23d
 __MACOSX/._MM00.vsav	300	81c7df15
 __MACOSX/._MM01.vsav	300	cae3b85b
 __MACOSX/._MM02.vsav	300	70b693e3
 __MACOSX/._MM03.vsav	210	cec9814d
-__MACOSX/._MM04.vsav	300	cf8e7453
+__MACOSX/._MM04.vsav	300	6df85afa
 __MACOSX/._MM05.vsav	210	75d42f21
 __MACOSX/._MM06.vsav	210	77688d43
 __MACOSX/._MM07.vsav	210	1c783ff4
@@ -1051,7 +1082,7 @@ __MACOSX/._MM10.vsav	210	475c7fe6
 __MACOSX/._MM11.vsav	210	235ea59d
 __MACOSX/._MM12.vsav	210	a7659198
 __MACOSX/._MM13.vsav	299	a3ec7572
-__MACOSX/._MM14.vsav	300	aa9d5ab8
+__MACOSX/._MM14.vsav	300	45c9af0d
 __MACOSX/._MM15.vsav	300	67b2d02b
 __MACOSX/._MM16.vsav	300	011727e8
 __MACOSX/._MM17.vsav	210	42e023c5
@@ -1059,23 +1090,31 @@ __MACOSX/._MM18.vsav	210	a1a191b7
 __MACOSX/._MM19.vsav	210	b6b6fe29
 __MACOSX/._MM20.vsav	210	9746d5be
 __MACOSX/._MMcG01.vsav	300	a9f62ae2
-__MACOSX/._MMcG02.vsav	300	875e34ab
+__MACOSX/._MMcG02.vsav	300	31dce4a9
 __MACOSX/._NoGame.vsav	210	cc71b9fa
+__MACOSX/._RH01.vsav	210	2de46c6e
+__MACOSX/._RH02.vsav	210	1f7f10ff
+__MACOSX/._RH03.vsav	210	e5fbc164
+__MACOSX/._RH04.vsav	210	b3714bd8
+__MACOSX/._RH05.vsav	210	b362678e
+__MACOSX/._RH06.vsav	210	3af303f0
+__MACOSX/._RH07.vsav	209	db2c7e1e
+__MACOSX/._RH08.vsav	210	20598a96
 __MACOSX/._TT01.vsav	300	5361d72f
 __MACOSX/._TT02.vsav	210	9854bd72
-__MACOSX/._TT03.vsav	210	338f12ea
+__MACOSX/._TT03.vsav	210	9b5708ac
 __MACOSX/._TT04.vsav	210	ad4f7d41
 __MACOSX/._TT05.vsav	210	d4f0669e
 __MACOSX/._TT06.vsav	210	1ed7b1c0
-__MACOSX/._TT07.vsav	210	c051d028
+__MACOSX/._TT07.vsav	210	e2ec89a6
 __MACOSX/._TT08.vsav	210	8f474839
-__MACOSX/._TT09.vsav	210	88c7f49b
+__MACOSX/._TT09.vsav	210	cdceae46
 __MACOSX/._TT10.vsav	210	75d0b5f4
 __MACOSX/._TT11.vsav	210	5ca1665b
 __MACOSX/._TT12.vsav	209	0c550d3d
 __MACOSX/._TT13.vsav	210	b92c778a
 __MACOSX/._TT14.vsav	210	b636bcca
-__MACOSX/._TT15.vsav	210	185d7628
+__MACOSX/._TT15.vsav	209	372b1e14
 __MACOSX/._TT16.vsav	210	4af2b548
 __MACOSX/._TT17.vsav	210	62d4f63c
 __MACOSX/._TT18.vsav	210	f6eb7fb0
@@ -1083,8 +1122,8 @@ __MACOSX/._TT19.vsav	210	8c71d3f2
 __MACOSX/._TT20.vsav	210	55f3d68e
 __MACOSX/._TT21.vsav	210	1c6b13a2
 __MACOSX/._TT22.vsav	210	cede37ce
-__MACOSX/._TT23.vsav	210	1cba8389
-__MACOSX/._TT24.vsav	210	23cdcb28
+__MACOSX/._TT23.vsav	210	434c182f
+__MACOSX/._TT24.vsav	210	275974d7
 __MACOSX/._TT25.vsav	210	f66fa786
 __MACOSX/._TT26.vsav	210	e0bc3676
 __MACOSX/._TT27.vsav	210	31e220a3
@@ -1093,39 +1132,39 @@ __MACOSX/._TT29.vsav	210	11522d6c
 __MACOSX/._TT30.vsav	210	d363f66a
 __MACOSX/._TT31.vsav	210	75c70377
 __MACOSX/._TT32.vsav	210	0bfc3edf
-__MACOSX/._TT33.vsav	210	2e679b53
+__MACOSX/._TT33.vsav	210	15c69293
 __MACOSX/._TT34.vsav	210	234d89cb
-__MACOSX/._TT35.vsav	210	a4402605
+__MACOSX/._TT35.vsav	210	b471b599
 __MACOSX/._TT36.vsav	210	3449ca03
 __MACOSX/._TT37.vsav	210	8dff708e
 __MACOSX/._TT38.vsav	210	6768aa1f
 __MACOSX/._TT39.vsav	210	6c8e1b24
 __MACOSX/._TT40.vsav	210	146aa979
-__MACOSX/._TT41.vsav	210	d042db22
+__MACOSX/._TT41.vsav	210	204aa6c0
 __MACOSX/._TT42.vsav	210	1cbe195c
 __MACOSX/._TT43.vsav	210	03795c32
-__MACOSX/._TT44.vsav	210	b0e50a66
+__MACOSX/._TT44.vsav	210	374a7fdd
 __MACOSX/._TT45.vsav	210	3a049198
 __MACOSX/._TT46.vsav	209	229d65e9
 __MACOSX/._TT47.vsav	210	d9da7406
 __MACOSX/._TT48.vsav	210	8f54646f
-__MACOSX/._TT49.vsav	210	f12da759
+__MACOSX/._TT49.vsav	210	8c406732
 __MACOSX/._TW1.vsav	210	d9deeed3
 __MACOSX/._TW2.vsav	210	50583c2e
 __MACOSX/._TW3.vsav	210	62c340bf
 __MACOSX/._TW4.vsav	210	f9eea1ff
-__MACOSX/._TW5.vsav	210	e5ceef71
+__MACOSX/._TW5.vsav	209	aafcbfa2
 __MACOSX/._VV01.vsav	210	0ed7969c
 __MACOSX/._VV02.vsav	210	2d00d250
 __MACOSX/._VV03.vsav	210	ba4b3e89
-__MACOSX/._ancients	300	05efc746
-__MACOSX/._buildFile.xml	646	295c81bb
-__MACOSX/._images	300	537661ac
-__MACOSX/._images_it	300	f626b307
+__MACOSX/._ancients	209	128f1899
+__MACOSX/._buildFile.xml	646	f9be47ed
+__MACOSX/._images	210	5ee2f5dd
+__MACOSX/._images_it	210	1f6c3ca9
 __MACOSX/._incompatible.vsav	210	c1dbe981
 __MACOSX/._info	210	21f5b17c
 __MACOSX/._moduledata	210	af642b43
-__MACOSX/._sounds	300	53654dfa
+__MACOSX/._sounds	210	49e6b615
 __MACOSX/ancients/._BannerSorter.class	260	75551492
 __MACOSX/ancients/._BoardTypeSorter.class	260	23df9e2e
 __MACOSX/ancients/._ChooseScenarioItem$1.class	260	857b6b33
@@ -1165,8 +1204,8 @@ __MACOSX/images/._CCA Exp2 ref1.jpg	210	f1eb81f1
 __MACOSX/images/._CCA Exp2 ref2.jpg	260	e031349c
 __MACOSX/images/._CCA Exp4 ref1.jpg	210	06c50011
 __MACOSX/images/._CCA Exp4 ref2.jpg	210	82faaec1
-__MACOSX/images/._CCA Foot.png	260	1fe5f99a
-__MACOSX/images/._CCA Mounted.png	517	17532ca1
+__MACOSX/images/._CCA Foot.png	260	078ca199
+__MACOSX/images/._CCA Mounted.png	517	e5be8265
 __MACOSX/images/._CCA1d.png	210	55ffefd7
 __MACOSX/images/._CCA1dInit.png	210	0375656b
 __MACOSX/images/._CCA2d.png	210	55ecc381
@@ -1207,6 +1246,7 @@ __MACOSX/images/._Inspired Left Leadership.gif	210	334dae97
 __MACOSX/images/._Inspired Right Leadership.gif	210	16c5274d
 __MACOSX/images/._Leadership Any Section.gif	210	01c16485
 __MACOSX/images/._Line Command.gif	210	65c7242b
+__MACOSX/images/._MediumBlockOutline.svg	210	274ec254
 __MACOSX/images/._Mounted Charge.gif	210	574bee39
 __MACOSX/images/._Move-Fire-Move.gif	210	4df6d1dc
 __MACOSX/images/._Nap Map Icon 32.jpeg	210	108d5cd8
@@ -1226,7 +1266,9 @@ __MACOSX/images/._Order Mounted.gif	210	65d4087d
 __MACOSX/images/._Out Flanked.gif	210	72d04bb5
 __MACOSX/images/._Rally.gif	210	245ac109
 __MACOSX/images/._Rampart Inner.png	210	2c446edd
+__MACOSX/images/._RectBlockOutline.svg	210	f2ecaefa
 __MACOSX/images/._Red Marker.png	210	28b0b72a
+__MACOSX/images/._SmallBlockOutline.svg	210	304a819c
 __MACOSX/images/._Terrain Chart.jpg	209	c5f66bba
 __MACOSX/images/._alex.png	210	cf96b21a
 __MACOSX/images/._arrowred micro.png	210	037dc6e7
@@ -1276,7 +1318,9 @@ __MACOSX/images/._car_leader.png	210	5bba17c0
 __MACOSX/images/._car_ltwarmachine.png	210	875d7d38
 __MACOSX/images/._carth banner.png	210	e44c7554
 __MACOSX/images/._cath_char_lt.png	210	c2276dbb
-__MACOSX/images/._cca_epicmap_hq.jpg	210	0aabae04
+__MACOSX/images/._ccaCardShape.svg	210	66c00b20
+__MACOSX/images/._ccaLDRext.svg	210	a4662446
+__MACOSX/images/._cca_epicmap_hq.jpg	210	f8552c96
 __MACOSX/images/._cca_map_hq.jpg	210	fc52fddc
 __MACOSX/images/._cca_refsheet1.jpg	210	eb56be14
 __MACOSX/images/._cca_refsheet2.jpg	210	bddc34a8
@@ -1372,6 +1416,7 @@ __MACOSX/images/._grk_leader.png	210	b2c2653d
 __MACOSX/images/._grk_ltwarmachine.png	210	d6d39310
 __MACOSX/images/._grk_warmachine.png	210	dc6e8ba9
 __MACOSX/images/._heavy.png	210	e7a3dd38
+__MACOSX/images/._hexOutline.svg	210	71c448e8
 __MACOSX/images/._highlight-new-block-flat.png	210	e9ea1c76
 __MACOSX/images/._highlight-new-block-large.png	210	0d272bff
 __MACOSX/images/._highlight-new-block-med.png	210	5bada143
@@ -1786,6 +1831,7 @@ __MACOSX/sounds/._click.mp3	210	a5c626f5
 __MACOSX/sounds/._flipLo.mp3	210	d6d709c5
 __MACOSX/sounds/._move_foot.wav	210	10816581
 __MACOSX/sounds/._silence.mp3	210	805d8379
+ancients/	0	00000000
 ancients/BannerSorter.class	1088	81eee8db
 ancients/BoardTypeSorter.class	1025	76c80078
 ancients/ChooseScenarioItem$1.class	769	105c6e86
@@ -1817,7 +1863,8 @@ ancients/ScenarioChooser.class	19785	6b327456
 ancients/ScenarioSorter.class	839	26ab1c6f
 ancients/SetSorter.class	1004	612fad5d
 ancients/VassalTools.class	1789	7c2e1343
-buildFile.xml	1128075	bfb5cd9d
+buildFile.xml	1133336	bb0b1f4d
+images/	0	00000000
 images/AB32.png	3369	c501f25b
 images/ABC32.png	3918	925e3648
 images/Blue Mat.jpg	540510	8243783a
@@ -2371,6 +2418,7 @@ images/wall_gate2.png	36443	4d692be8
 images/wall_straight.png	33388	fd16c531
 images/water.png	2009	b4769e95
 images/woods.png	41692	f96cfcb2
+images_it/	0	00000000
 images_it/.DS_Store	6148	6d88006a
 images_it/Clash of Shields.gif	121974	0d7a0a7e
 images_it/Coordinated Attack.gif	79084	8977350a
@@ -2438,7 +2486,8 @@ images_it/epic_card_rally.gif	122956	0421fc40
 images_it/epic_card_retire_and_reform.gif	122939	5be410a8
 incompatible.vsav	57931	fae4cd71
 info	283	d2ed255e
-moduledata	570	2b4173e9
+moduledata	570	b40f7163
+sounds/	0	00000000
 sounds/.DS_Store	6148	6d88006a
 sounds/1bell.mp3	17082	a1deac06
 sounds/1hits.mp3	7357	8c606c74

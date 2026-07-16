@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.18" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1008" version="4.3.31">
+<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.24" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1008" version="4.3.32">
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="box cover.JPG" title="About Commands &amp; Colors: Ancients"/>
@@ -20,7 +20,7 @@
         <VASSAL.build.module.documentation.BrowserPDFFile pdfFile="C&amp;C Ancients Hotkeys.pdf" title="Module Hotkeys"/>
         <VASSAL.build.module.documentation.Tutorial launchOnStartup="true" logfile="CCA Tutorial.vlog" name="Tutorial" promptMessage="Load the tutorial?" welcomeMessage="Hit the &quot;Step forward&quot; button in the toolbar [PgDn] to step through the tutorial."/>
         <VASSAL.build.module.documentation.BrowserHelpFile startingPage="https://docs.google.com/document/d/e/2PACX-1vTJKfdA1kCR1DZXxSJjVRkdn5E0zc8XAXPkrQHbpW_XolPA8IfbtYv5Y54-g4mQwVsxqUP7EDMxj2wS/pub" title="Scenario Building Guide"/>
-        <VASSAL.build.module.documentation.BrowserHelpFile startingPage="https://vassalengine.org/wiki/Module:Commands_%26_Colors_Ancients" title="Check for updates [Module home page]"/>
+        <VASSAL.build.module.documentation.BrowserHelpFile startingPage="https://vassalengine.org/library/projects/Commands__Colors_Ancients" title="Check for updates [Module home page]"/>
         <VASSAL.build.module.documentation.BrowserHelpFile startingPage="{&quot;https://forum.vassalengine.org/new-topic?title=&quot; + URLEncoder.encode(&quot;[&quot;+ModuleName+&quot;]&quot;,&quot;UTF-8&quot;) + &quot;&amp;body=Module+V&quot;+ModuleVersion+&quot;%0AVassal+V&quot;+VassalVersionRunning+&quot;%0AScenario+&quot;+scenarioNameURL+&quot;%0A%0AReplace+this+text+with+a+description+of+the+issue+and+steps+to+reproduce.+To+attach+a+logfile+first+rename+it+from+%22.vlog%22+to+%22.zip%22.+Please+also+add+a+summary+to+the+issue+title.&amp;category=Module+Support&quot;}" title="Request support... [Vassal forum]"/>
         <VASSAL.build.module.documentation.BrowserHelpFile startingPage="{&quot;https://github.com/riverwanderer/ccancients/issues/new?&amp;body=Module+V&quot;+ModuleVersion+&quot;%0AVassal+V&quot;+VassalVersionRunning+&quot;%0AScenario+&quot;+scenarioNameURL+&quot;%0A%0AReplace+this+text+with+a+description+of+the+issue+and+steps+to+reproduce.+To+attach+a+%22.vlog%22+or+%22.vsav%22+file+first+rename+it+to+%22.zip%22.&amp;assignee=RiverWanderer&amp;labels=&quot;+URLEncoder.encode(&quot;ABR&quot;+(ModuleVersion =~ &quot;.*[0-9]a.*&quot; ? &quot;,alpha&quot; : ModuleVersion  =~ &quot;.*[bB].*&quot; ? &quot;,beta&quot; : &quot;&quot;),&quot;UTF-8&quot;) + &quot;&amp;milestone=&quot;+ModuleVersion.replaceAll(&quot;[abB][0-9]*&quot;,&quot;&quot;)}" title="Report an Issue... [GitHub]"/>
     </VASSAL.build.module.Documentation>
@@ -2285,25 +2285,25 @@
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.TabWidget entryName="&lt;html&gt;&lt;font color=#ffa057&gt;&lt;b&gt;Spartan">
                 <VASSAL.build.widget.PanelWidget entryName="Standard" fixed="true" nColumns="5" scale="1.0" vert="false">
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Light Infantry" gpid="308" height="100" width="90">+/null/prototype;Light Inf	prototype;Block=Orange\	piece;;;spa_inf_lt.png;Spartan Light Infantry/	\	null;0;0;308;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Light Bows" gpid="309" height="100" width="90">+/null/prototype;Light Bow Inf	prototype;Block=Orange\	piece;;;spa_inf_lt_bow.png;Spartan Light Bows/	\	null;0;0;309;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Light Slings" gpid="310" height="100" width="90">+/null/prototype;Light Sling Inf	prototype;Block=Orange\	piece;;;spa_inf_lt_sling.png;Spartan Light Slings/	\	null;0;0;310;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Auxilia Infantry" gpid="307" height="100" width="90">+/null/prototype;Auxilia	prototype;Block=Orange\	piece;;;spa_inf_aux.png;Spartan Auxilia Infantry/	\	null;0;0;307;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Warrior Infantry" gpid="306" height="100" width="90">+/null/prototype;Warrior	prototype;Block=Orange\	piece;;;spa_inf_war.png;Spartan Warrior Infantry/	\	null;0;0;306;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Medium Infantry" gpid="303" height="100" width="90">+/null/prototype;Medium Inf	prototype;Block=Orange\	piece;;;spa_inf_med.png;Spartan Medium Infantry/	\	null;0;0;303;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Medium Hoplites" gpid="305" height="100" width="90">+/null/prototype;Spartan Bronze Block Medium Hoplites	prototype;Block=Orange\	mark;Orange\\	piece;;;spa_inf_hop.png;Spartan Medium Hoplites/	\	1\\	null;0;0;305;0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Allied Medium Hoplites" gpid="304" height="100" width="90">+/null/prototype;Medium Hoplites	prototype;Block=Orange\	mark;Orange\\	piece;;;greek_hop_med.png;Allied Medium Hoplites/	\	1\\	null;0;0;304;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Heavy Infantry" gpid="302" height="100" width="90">+/null/prototype;Heavy Inf	prototype;Block=Orange\	piece;;;spa_inf_hvy.png;Spartan Heavy Infantry/	\	null;0;0;302;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Light Cavalry" gpid="312" height="110" width="100">+/null/prototype;Light Cav	prototype;Block=Orange\	piece;;;spa_cav_lt.png;Spartan Light Cavalry/	\	null;0;0;312;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Medium Cavalry" gpid="311" height="110" width="100">+/null/prototype;Medium Cav	prototype;Block=Orange\	piece;;;spa_cav_med.png;Spartan Medium Cavalry/	\	null;0;0;311;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Leader" gpid="313" height="67" width="57">+/null/prototype;Leader	prototype;Block=Orange\	piece;;;spa_leader.png;Spartan Leader/	\	null;0;0;313;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Light Infantry" gpid="308" height="64" width="75">+/null/prototype;Light Inf	prototype;Block=Orange\	piece;;;spa_inf_lt.png;Spartan Light Infantry/	\	null;0;0;308;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Light Bows" gpid="309" height="64" width="75">+/null/prototype;Light Bow Inf	prototype;Block=Orange\	piece;;;spa_inf_lt_bow.png;Spartan Light Bows/	\	null;0;0;309;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Light Slings" gpid="310" height="64" width="75">+/null/prototype;Light Sling Inf	prototype;Block=Orange\	piece;;;spa_inf_lt_sling.png;Spartan Light Slings/	\	null;0;0;310;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Auxilia Infantry" gpid="307" height="64" width="75">+/null/prototype;Auxilia	prototype;Block=Orange\	piece;;;spa_inf_aux.png;Spartan Auxilia Infantry/	\	null;0;0;307;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Warrior Infantry" gpid="306" height="64" width="75">+/null/prototype;Warrior	prototype;Block=Orange\	piece;;;spa_inf_war.png;Spartan Warrior Infantry/	\	null;0;0;306;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Medium Infantry" gpid="303" height="64" width="75">+/null/prototype;Medium Inf	prototype;Block=Orange\	piece;;;spa_inf_med.png;Spartan Medium Infantry/	\	null;0;0;303;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Medium Hoplites" gpid="305" height="64" width="75">+/null/prototype;Spartan Bronze Block Medium Hoplites	prototype;Block=Orange\	mark;Orange\\	piece;;;spa_inf_hop.png;Spartan Medium Hoplites/	\	1\\	null;0;0;305;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Allied Medium Hoplites" gpid="304" height="64" width="75">+/null/prototype;Medium Hoplites	prototype;Block=Orange\	mark;Orange\\	piece;;;greek_hop_med.png;Allied Medium Hoplites/	\	1\\	null;0;0;304;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Heavy Infantry" gpid="302" height="64" width="75">+/null/prototype;Heavy Inf	prototype;Block=Orange\	piece;;;spa_inf_hvy.png;Spartan Heavy Infantry/	\	null;0;0;302;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Light Cavalry" gpid="312" height="64" width="75">+/null/prototype;Light Cav	prototype;Block=Orange\	piece;;;spa_cav_lt.png;Spartan Light Cavalry/	\	null;0;0;312;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Medium Cavalry" gpid="311" height="64" width="75">+/null/prototype;Medium Cav	prototype;Block=Orange\	piece;;;spa_cav_med.png;Spartan Medium Cavalry/	\	null;0;0;311;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Leader" gpid="313" height="64" width="75">+/null/prototype;Leader	prototype;Block=Orange\	piece;;;spa_leader.png;Spartan Leader/	\	null;0;0;313;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.widget.PanelWidget>
                 <VASSAL.build.widget.PanelWidget entryName="Special" fixed="true" nColumns="5" scale="1.0" vert="false">
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Auxilia Infantry" gpid="701" height="113" width="90">+/null/mark;SpecialName	prototype;Special Auxilia\	prototype;Block=Orange\\	piece;;;spa_inf_aux.png;Spartan Auxilia Infantry/Skiritae	\	\\	null;0;0;701;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Allied Medium Hoplites" gpid="1007" height="113" width="93">+/null/mark;SpecialNameFull	mark;SpecialName\	prototype;Special Medium Hoplites\\	prototype;Block=Orange\\\	mark;Orange\\\\	piece;;;greek_hop_med.png;Allied Medium Hoplites/Veterans of Xenophon’s Ten Thousand	Veterans\	\\	\\\	1\\\\	null;0;0;1007;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Heavy Infantry" gpid="713" height="113" width="122">+/null/prototype;Special Heavy Inf	prototype;Block=Orange\	mark;SpecialName\\	piece;;;spa_inf_hvy.png;Spartan Heavy Infantry/	\	Sacred Band\\	null;0;0;713;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Champion" gpid="725" height="100" width="90">+/null/prototype;Champion	mark;army\	piece;;;spa_inf_hop.png;Spartan Champion/	Orange\	null;0;0;725;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
-                    <VASSAL.build.widget.PieceSlot entryName="Spartan Medium Hoplites" gpid="1006" height="113" width="122">+/null/prototype;Special Bronze Block Medium Hoplites	prototype;Block=Orange\	mark;SpecialNameFull\\	mark;SpecialName\\\	piece;;;spa_inf_hop.png;Spartan Medium Hoplites/	\	Theban Sacred Band\\	Sacred Band\\\	null;111;272;1006;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Auxilia Infantry" gpid="701" height="64" width="75">+/null/mark;SpecialName	prototype;Special Auxilia\	prototype;Block=Orange\\	piece;;;spa_inf_aux.png;Spartan Auxilia Infantry/Skiritae	\	\\	null;0;0;701;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Allied Medium Hoplites" gpid="1007" height="64" width="75">+/null/mark;SpecialNameFull	mark;SpecialName\	prototype;Special Medium Hoplites\\	prototype;Block=Orange\\\	mark;Orange\\\\	piece;;;greek_hop_med.png;Allied Medium Hoplites/Veterans of Xenophon’s Ten Thousand	Veterans\	\\	\\\	1\\\\	null;0;0;1007;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Heavy Infantry" gpid="713" height="64" width="75">+/null/prototype;Special Heavy Inf	prototype;Block=Orange\	mark;SpecialName\\	piece;;;spa_inf_hvy.png;Spartan Heavy Infantry/	\	Sacred Band\\	null;0;0;713;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Champion" gpid="725" height="64" width="75">+/null/prototype;Champion	mark;army\	piece;;;spa_inf_hop.png;Spartan Champion/	Orange\	null;0;0;725;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Spartan Medium Hoplites" gpid="1006" height="64" width="75">+/null/prototype;Special Bronze Block Medium Hoplites	prototype;Block=Orange\	mark;SpecialNameFull\\	mark;SpecialName\\\	piece;;;spa_inf_hop.png;Spartan Medium Hoplites/	\	Theban Sacred Band\\	Sacred Band\\\	null;0;0;1006;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.widget.PanelWidget>
             </VASSAL.build.widget.TabWidget>
         </VASSAL.build.widget.TabWidget>
@@ -2727,6 +2727,7 @@
             <VASSAL.build.module.PredefinedSetup file="AC38.vsav" isMenu="false" name="AC38" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup file="AC39.vsav" isMenu="false" name="AC39" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup file="AC40.vsav" isMenu="false" name="AC40" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup file="AC41.vsav" isMenu="false" name="AC41" useFile="true"/>
         </VASSAL.build.module.PredefinedSetup>
         <VASSAL.build.module.PredefinedSetup isMenu="true" name="AT" useFile="false">
             <VASSAL.build.module.PredefinedSetup file="AT01.vsav" isMenu="false" name="AT01" useFile="true"/>
@@ -3020,6 +3021,18 @@
             <VASSAL.build.module.PredefinedSetup description="" file="MF08.vsav" isMenu="false" name="MF08" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup description="" file="MF09.vsav" isMenu="false" name="MF09" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup description="" file="MF10.vsav" isMenu="false" name="MF10" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF11 EPIC Delium.vsav" isMenu="false" name="MF11" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF12 EPIC Mantinea.vsav" isMenu="false" name="MF12" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF13 EPIC Akragas.vsav" isMenu="false" name="MF13" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF14 EPIC Coronea.vsav" isMenu="false" name="MF14" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF15 EPIC Cronium.vsav" isMenu="false" name="MF15" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF16 EPIC Chaeronea.vsav" isMenu="false" name="MF16" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF17 EPIC Granicus.vsav" isMenu="false" name="MF17" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF18 EPIC Issus.vsav" isMenu="false" name="MF18" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF19 EPIC Jaxartes.vsav" isMenu="false" name="MF19" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF20 EPIC Hellespont.vsav" isMenu="false" name="MF20" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF21 EPIC Gabiene.vsav" isMenu="false" name="MF21" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="" file="MF22 EPIC Ipsus.vsav" isMenu="false" name="MF22" useFile="true"/>
         </VASSAL.build.module.PredefinedSetup>
         <VASSAL.build.module.PredefinedSetup description="Michal Kowalczuk" isMenu="true" name="MK" useFile="true">
             <VASSAL.build.module.PredefinedSetup description="" file="MK01.vsav" isMenu="false" name="MK01" useFile="true"/>
@@ -3028,6 +3041,8 @@
             <VASSAL.build.module.PredefinedSetup description="" file="MK04.vsav" isMenu="false" name="MK04" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup description="EPIC Munda (45 BC)" file="MK05.vsav" isMenu="false" name="MK05" useFile="true"/>
             <VASSAL.build.module.PredefinedSetup description="EPIC Nisibis (217 AD)" file="MK06.vsav" isMenu="false" name="MK06" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="EPIC Chrysopolis (324 AD)" file="MK07.vsav" isMenu="false" name="MK07" useFile="true"/>
+            <VASSAL.build.module.PredefinedSetup description="EPIC Adrianople (324 AD)" file="MK08.vsav" isMenu="false" name="MK08" useFile="true"/>
         </VASSAL.build.module.PredefinedSetup>
         <VASSAL.build.module.PredefinedSetup description="Michaël Lagarde" isMenu="true" name="ML" useFile="false">
             <VASSAL.build.module.PredefinedSetup file="ML01.vsav" isMenu="false" name="ML01" useFile="true"/>
@@ -3357,6 +3372,7 @@
             <ancients.Scenario banners="8" codex="AC38" file="AC38" name="Pistoria" official="false" set="Alessandro Crespi" team1="Catilinian" team2="Roman" type="normal" winner="Roman" year="-62 "/>
             <ancients.Scenario banners="7" codex="AC39" file="AC39" name="Arar River" official="false" set="Alessandro Crespi" team1="Helvetii" team2="Roman" type="normal" winner="Roman" year="-58 "/>
             <ancients.Scenario banners="6" codex="AC40" file="AC40" name="Siege of Aduatuca" official="false" set="Alessandro Crespi" team1="Audatuci" team2="Roman" type="normal" winner="Roman" year="-53 "/>
+            <ancients.Scenario banners="6" codex="AC41" file="AC41" name="Segeda" official="false" set="Alessandro Crespi" team1="Celtiberian" team2="Roman" type="normal" winner="Celtiberian" year="-153 "/>
         </VASSAL.build.module.folder.ModuleSubFolder>
         <VASSAL.build.module.folder.ModuleSubFolder desc="Andrea Tosti" name="AT series">
             <ancients.Scenario banners="5" codex="AT01" file="AT01" name="The Lyginus" official="false" set="Andrea Tosti" team1="Triballi" team2="Macedonian" type="normal" winner="Macedonian" year="-335"/>
@@ -3647,6 +3663,18 @@
             <ancients.Scenario banners="8" codex="MF08" file="MF08" name="Corupedium" official="false" set="Matteo Finotto" team1=" Lysimachus" team2="Seleucid" type="normal" winner="Seleucid" year="-281"/>
             <ancients.Scenario banners="6" codex="MF09" file="MF09" name="Elephant's Battle" official="false" set="Matteo Finotto" team1="Seleucid" team2="Galatian" type="normal" winner="Seleucid" year="-277"/>
             <ancients.Scenario banners="6" codex="MF10" file="MF10" name="Panium" official="false" set="Matteo Finotto" team1="Ptolemaic" team2="Seleucid" type="normal" winner="Seleucid" year="-200"/>
+            <ancients.Scenario banners="10" codex="MF11" file="MF11 EPIC Delium" name="Delium" official="false" set="Matteo Finotto" team1="Athenian" team2="Boeotian" type="epic" winner="Boeotian" year="-424"/>
+            <ancients.Scenario banners="13" codex="MF12" file="MF12 EPIC Mantinea" name="Mantinea" official="false" set="Matteo Finotto" team1="Argive" team2="Spartan" type="epic" winner="Spartan" year="-418"/>
+            <ancients.Scenario banners="10" codex="MF13" file="MF13 EPIC Akragas" name="Akragas" official="false" set="Matteo Finotto" team1="Carthaginian" team2="Syracusan" type="epic" winner="Syracusan" year="-406"/>
+            <ancients.Scenario banners="13" codex="MF14" file="MF14 EPIC Coronea" name="Coronea" official="false" set="Matteo Finotto" team1="Greek" team2="Spartan" type="epic" winner="Spartan" year="-394"/>
+            <ancients.Scenario banners="12" codex="MF15" file="MF15 EPIC Cronium" name="Cronium" official="false" set="Matteo Finotto" team1="Carthaginian" team2="Syracusan" type="epic" winner="Carthaginian" year="-376"/>
+            <ancients.Scenario banners="10" codex="MF16" file="MF16 EPIC Chaeronea" name="Chaeronea" official="false" set="Matteo Finotto" team1="Macedonian" team2="Greek" type="epic" winner="Macedonian" year="-338"/>
+            <ancients.Scenario banners="10" codex="MF17" file="MF17 EPIC Granicus" name="Granicus" official="false" set="Matteo Finotto" team1="Macedonian" team2="Persian" type="epic" winner="Macedonian" year="-334"/>
+            <ancients.Scenario banners="13" codex="MF18" file="MF18 EPIC Issus" name="Issus" official="false" set="Matteo Finotto" team1="Macedonian" team2="Persian" type="epic" winner="Macedonian" year="-333"/>
+            <ancients.Scenario banners="10" codex="MF19" file="MF19 EPIC Jaxartes" name="Jaxartes River" official="false" set="Matteo Finotto" team1="Macedonian" team2="Scythian" type="epic" winner="Macedonian" year="-328"/>
+            <ancients.Scenario banners="12" codex="MF20" file="MF20 EPIC Hellespont" name="Hellespont" official="false" set="Matteo Finotto" team1="Craterus" team2="Eumenes" type="epic" winner="Eumenes" year="-323"/>
+            <ancients.Scenario banners="13" codex="MF21" file="MF21 EPIC Gabiene" name="Gabiene" official="false" set="Matteo Finotto" team1="Eumenes" team2="Antigonus" type="epic" winner="Antigonus" year="-316"/>
+            <ancients.Scenario banners="12" codex="MF22" file="MF22 EPIC Ipsus" name="Ipsus" official="false" set="Matteo Finotto" team1="Antigonus" team2="Coalition" type="epic" winner="Coalition" year="-301"/>
         </VASSAL.build.module.folder.ModuleSubFolder>
         <VASSAL.build.module.folder.ModuleSubFolder desc="Michaël Lagarde" name="ML series">
             <ancients.Scenario banners="8" codex="ML01" file="ML01" name="Alesia I" official="false" set="Michaël Lagarde" team1="Gauls" team2="Roman" type="normal" winner="" year="-52"/>
@@ -3663,6 +3691,8 @@
             <ancients.Scenario banners="14" codex="MK04" file="MK04" name="Thapsus" official="false" set="Michal Kowalczuk" team1="Pompeian" team2="Caesarian" type="epic" winner="Caesarian" year="-48"/>
             <ancients.Scenario banners="14" codex="MK05" file="MK05" name="Munda" official="false" set="Michal Kowalczuk" team1="Pompeian" team2="Caesarian" type="epic" winner="Caesarian" year="-45"/>
             <ancients.Scenario banners="14" codex="MK06" file="MK06" name="Nisibis" official="false" set="Michal Kowalczuk" team1="Parthian" team2="Roman" type="epic" winner="Parthian" year="217"/>
+            <ancients.Scenario banners="10" codex="MK07" file="MK07" name="Chrysopolis" official="false" set="Michal Kowalczuk" team1="Constantine" team2="Licinius" type="epic" winner="Constantine" year="324"/>
+            <ancients.Scenario banners="13" codex="MK08" file="MK08" name="Adrianople" official="false" set="Michal Kowalczuk" team1="Constantine" team2="Licinius" type="epic" winner="Constantine" year="324"/>
         </VASSAL.build.module.folder.ModuleSubFolder>
         <VASSAL.build.module.folder.ModuleSubFolder desc="Miguel Marqués" name="MM series">
             <ancients.Scenario banners="8" codex="MM00" file="MM00" name="Troy" official="false" set="Miguel Marqués" team1="Trojan" team2="Achaean" type="normal" winner="" year="-1184"/>
