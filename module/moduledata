@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <data version="1">
-  <version>4.3.32</version>
+  <version>4.3.33</version>
   <extra1>featuring GMT CDG Solo System </extra1>
   <extra2>&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC.</extra2>
-  <VassalVersion>3.7.24</VassalVersion>
-  <dateSaved>1784239837620</dateSaved>
+  <VassalVersion>3.7.22</VassalVersion>
+  <dateSaved>1784635314733</dateSaved>
   <description>featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System.</description>
   <name>Commands &amp; Colors Ancients</name>
 </data>

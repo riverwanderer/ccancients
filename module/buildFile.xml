@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.24" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1008" version="4.3.32">
+<VASSAL.build.GameModule ModuleOther1="featuring GMT CDG Solo System " ModuleOther2="&lt;br&gt;v4.2-v4.3 enhancements and solo mode integrations by Mark Benson&lt;br&gt;Version 4 by CommandsandColors.net. Core game images (c) GMT Games LLC." VassalVersion="3.7.22" description="featuring CommandsandColors.net fan scenarios catalog &amp; GMT CDG Solo System." name="Commands &amp; Colors Ancients" nextPieceSlotId="1008" version="4.3.33">
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="box cover.JPG" title="About Commands &amp; Colors: Ancients"/>
@@ -3323,13 +3323,13 @@
             <ancients.Scenario banners="15" codex="C3i22" file="C3i22" name="Paraitacene" official="true" set="C3i Magazine" team1="Eumenes" team2="Antigonus" type="epic" winner="Draw" year="-317"/>
         </VASSAL.build.module.folder.ModuleSubFolder>
         <VASSAL.build.module.folder.ModuleSubFolder desc="Cross-Atlantic league" name="CACCA">
-            <ancients.Scenario banners="6" codex="201" file="201" name="01/06 Clusium" official="false" set="CACCA25" team1="Gauls" team2="Roman" type="normal" winner="Gauls" year="-225"/>
-            <ancients.Scenario banners="6" codex="205" file="205" name="02/07 Scirthaea" official="false" set="CACCA25" team1="Slaves" team2="Roman" type="normal" winner="Roman" year="-103"/>
-            <ancients.Scenario banners="6" codex="213" file="213" name="03/08 Camalatrum" official="false" set="CACCA25" team1="Slave Army" team2="Roman" type="normal" winner="Roman" year="-71"/>
-            <ancients.Scenario banners="6" codex="214" file="214" name="04/09 Silarus" official="false" set="CACCA25" team1="Slave Army" team2="Roman" type="normal" winner="Roman" year="-71"/>
-            <ancients.Scenario banners="6" codex="216" file="216" name="05/10 Sotium" official="false" set="CACCA25" team1="Gauls" team2="Roman" type="normal" winner="Roman" year="-56"/>
-            <ancients.Scenario banners="8" codex="202" file="202" name="11 (S) Telamon" official="false" set="CACCA25" team1="Gauls" team2="Roman" type="normal" winner="Roman" year="-225"/>
-            <ancients.Scenario banners="8" codex="115" file="115" name="12 (F) Ipsus" official="false" set="CACCA25" team1="Antigonus" team2="Seleucus" type="normal" winner="Seleucus" year="-301"/>
+            <ancients.Scenario banners="7" codex="118" file="118" name="01/06  Beneventum" official="false" set="CACCA26" team1="Epirote" team2="Roman" type="normal" winner="Roman" year="-275"/>
+            <ancients.Scenario banners="7" codex="003" file="003" name="02/07 Bagradas" official="false" set="CACCA26" team1="Carthaginian" team2="Roman" type="normal" winner="Carthaginian" year="-253"/>
+            <ancients.Scenario banners="7" codex="114" file="114" name="03/08 Gabiene" official="false" set="CACCA26" team1="Antigonus" team2="Eumenes" type="normal" winner="Antigonus" year="-316"/>
+            <ancients.Scenario banners="7" codex="309" file="309" name="04/09 Ilerda" official="false" set="CACCA26" team1="Pompeian" team2="Cesarian" type="normal" winner="Cesarian" year="-49"/>
+            <ancients.Scenario banners="6" codex="117" file="117" name="05/10 Asculum" official="false" set="CACCA26" team1="Gauls" team2="Roman" type="normal" winner="Roman" year="-56"/>
+            <ancients.Scenario banners="8" codex="119" file="119" name="11 (S) Raphia " official="false" set="CACCA26" team1="Ptolemaic" team2="Seleucid" type="normal" winner="Ptolemaic" year="-217"/>
+            <ancients.Scenario banners="8" codex="115" file="115" name="12 (F) Ipsus " official="false" set="CACCA26" team1="Antigonus" team2="Seleucus" type="normal" winner="Seleucus" year="-301"/>
         </VASSAL.build.module.folder.ModuleSubFolder>
         <VASSAL.build.module.folder.ModuleSubFolder desc="Alessandro Crespi" name="AC series">
             <ancients.Scenario banners="6" codex="AC01" file="AC01" name="Olpae" official="false" set="Alessandro Crespi" team1="Athenian" team2="Spartan" type="normal" winner="Athenian" year="-426"/>
