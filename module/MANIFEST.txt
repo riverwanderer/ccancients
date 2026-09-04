@@ -1862,7 +1862,7 @@ ancients/ScenarioChooser.class	19785	6b327456
 ancients/ScenarioSorter.class	839	26ab1c6f
 ancients/SetSorter.class	1004	612fad5d
 ancients/VassalTools.class	1789	7c2e1343
-buildFile.xml	1133373	e023fa07
+buildFile.xml	1133373	5cc63ca0
 images/AB32.png	3369	c501f25b
 images/ABC32.png	3918	925e3648
 images/Blue Mat.jpg	540510	8243783a
@@ -1872,7 +1872,7 @@ images/CCA Exp2 ref2.jpg	241449	9ad7d47e
 images/CCA Exp4 ref1.jpg	228078	d88667b7
 images/CCA Exp4 ref2.jpg	259386	1509422a
 images/CCA Foot.png	574500	dd7f539c
-images/CCA Mounted.png	576362	24b4f5f1
+images/CCA Mounted.png	578014	af19ed15
 images/CCA1d.png	14031	faa7729d
 images/CCA1dInit.png	13640	872bc08d
 images/CCA2d.png	15168	e8a222bb
@@ -2483,7 +2483,7 @@ images_it/epic_card_rally.gif	122956	0421fc40
 images_it/epic_card_retire_and_reform.gif	122939	5be410a8
 incompatible.vsav	57931	fae4cd71
 info	283	d2ed255e
-moduledata	570	e2021cdc
+moduledata	570	45c8358b
 sounds/.DS_Store	6148	6d88006a
 sounds/1bell.mp3	17082	a1deac06
 sounds/1hits.mp3	7357	8c606c74
