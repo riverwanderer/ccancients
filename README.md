@@ -5,7 +5,7 @@ Archive of every v4 build of the C&C Ancients VASSAL module that could be found 
 ## How the archive is organised
 - **Git history**: one commit per module version, dated by the module's own *dateSaved*. Each commit holds the module's text: `module/buildFile.xml`, `module/moduledata` and `module/MANIFEST.txt` (every file in the .vmod with its size and CRC32, so image and predefined-setup changes show up in diffs too). The .vmod files are too big for git (100 MB limit).
 - **Tags**: one per version (`v4.3.34`, …). Compare any two with `git diff v4.3.33 v4.3.34 -- module/buildFile.xml`.
-- **Releases**: the original **.vmod** for each tag is attached to the release of the same name (byte-for-byte copies; md5 in the commit message).
+- **Releases**: the original **.vmod** for each tag is attached to the release of the same name (byte-for-byte copies; md5 in the commit message). Tags and releases are created by `tools/make_releases.sh` (run on the Mac; it checks every file's md5 before upload).
 - **Branches**
   - `main`: published releases in order.
   - `v4.4-beta`: 4.4.0beta (Aug 2025, from 4.3.30) and 4.4.0beta2 (Jul 2026), the single Draw & End button line.
