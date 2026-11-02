@@ -1,0 +1,36 @@
+v4 Changelog
+
+modified icons (from left to right: undo, next, disconnect, change side, p1, p2, dice from 1 to 7, terrains, units, notes, charts, end turn / clear)
+I've also modified Zoom, "LoS" and Clear moves icon
+card back with white round corner
+player's hand windows with grey / bronze background (following toolbar icon color)
+changed dice face pictures with HQ images and round corner)
+draw icon on player's hand (hand icon) to automatically draw to hand 1 card (with log on main log window)
+cards drawn to player's hand automatically stacks side by side (without overlapping)
+right click (or shortcut) on selected card to be "played" (as to say: send it to the center of the map, instead of drag'n'dropping things around) deck card counter (a small number to show remaining cards)
+swapped "draw" and "discard" deck to keep more visible "actual card in play" (instead of scrolling to the right)
+thicker "movement trail" to be more visible
+"color coded" it to better understand relative faction
+added a "star icon" to identify actual in turn player (icon shows on top or bottom of the map) linked to "End Turn" hourglass icon
+added "cards left" counter below command card draw deck
+added sound: dice roll
+added sound: draw / flip / play a card
+added sound: reshuffle deck
+redesign victory track bar (what do you think about placing one at the top and the other one at the bottom of the sidebar, instead of both at the bottom?)
+star icon (bottom left) to show actual player (it cycles from bottom left to top left every time a player ends turn)
+HQ dice picture on sidebar
+added "report in log window" for marker actions like "attack" and "target"
+slightly changed markers: attack = double swords, target = bullseye, battled = tick)
+integrated all extension materials (markers, units, terrains, chards, scenarios, ecc) inside main module, so we are going to have a single VMOD file including all official components
+added scenarios menu (submenu) with unlinked scenario vsav files
+added units with color-coded movement trails
+unit movement using numpad keys
+added a "Hide units" icon to easily show the map with terrains only
+added "Area of Effect" trait to see ranged combat max distance for bow, slinger (foot and cavalry) and war machines.
+added links in "About menu" to easily reach Units and Terrain section on Official Website
+changed highlight color to be more visible and less "overlapping"
+"Mouse Over Stack" feature will show both terrain and units
+added "hide letter" button (to enable / disable top left letters inside unit block)
+added Figs Lost count
+added buttons to remove/add sounds
+added "scenario chooser" (similar to memoir 44) with full statistics, scenario preview and link to official scenario webpage

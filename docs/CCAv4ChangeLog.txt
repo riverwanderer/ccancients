@@ -1,0 +1,315 @@
+Commands & Colors: Ancients
+Version 4 Change Log (v4.2 onwards)
+
+Version 4.3.34 (Module Checksum: 88ca1900)
+[fix] Mounted unit universal player aid: Heavy Chariots ignore 1 sword hit.
+
+Version 4.3.33 (Module Checksum: 75eba5f5)
+[fix] Avoid warning when run under Vassal 3.7.22 (including scenario refresh).
+[ux] Scenario Browser - Update CACCA league set for 2026.
+
+Version 4.3.32 (Module Checksum: 1a89fdb8)
+[fix] Obsolete (bad) link to module page fixed (Help...Check for Updates)
+[ux] New scenarios: AC41, Epic MF11-MF22 & Epic MK07-08.
+[fix] Scenario MK06 - unblock Solitaire role.
+
+Version 4.3.31 (Module Checksum: 78a161fe)
+[ux] Scenario 611 (Delium): add special marker to Theban Sacred Band unit.
+[ux] Scenario MF05 (Gaza): scenario update. Broken ground removed.
+[fix] Scenario 620 (Coronea) - Veterans units corrected.
+
+Version 4.3.30 (Module Checksum: 1dd83e44) 
+[fix] Scenario 614 (Anapus River) - missing Athenian Auxilia units instated.
+
+Version 4.3.29 (Module Checksum: 66d417ac) 
+[ux] Scenario MK06 (EPIC Nisibis - help link works now.
+
+Version 4.3.28 (Module Checksum: 80ae7168) 
+[ux] Scenario MK06 (EPIC Nisibis added).
+[ux] Corrections to dates for EPIC scenarios in Scenario Browser.
+
+Version 4.3.27 (Module Checksum: 8d5b632b) 
+[ux] Scenario 215 (River Sabis) - cosmetic update.
+
+Version 4.3.26 (Module Checksum: f6a0c018) 
+[fix] Scenario 101 (Marathon) - fix to starting hand setup.
+
+Version 4.3.25 (Module Checksum: 5b055c6f) 
+[ux] Two new scenarios from Matteo Finotto.
+
+Version 4.3.24 (Module Checksum: d6586841) 
+[ux] Terrain Player Aid - clarify Fortified Camp hex battle dice.
+                                   
+Version 4.3.23 (Module Checksum: e8ac9532) 
+[ux] RHxx scenario series added.
+[ux] Scenario Browser - Update CACCA league set for 2025.
+[fix] Epic Section card stacking (double play) was disabled incorrectly (on the left of screen).
+
+Version 4.3.22 (Module Checksum: 253cc6d3)
+[ux] Minor ScenarioX fixes: image offset for Leaders, Elephants & Chariots and grey block movement trail visibility.
+[ux] Special labels moved outside of piece bounding box.
+[ux] Companion cavalry now marked in scenario 109.
+
+Version 4.3.21 (Module Checksum: ef8f8375)
+[ux] Add missing army setup in scenarios 304, BS09, JD47, JD52, JD53, JD56, JD69, JD134 & TT05.
+[ux] Correct army setup in scenarios JD121, JD132, TT42, TT43 & TT44.
+[ux] Removed duplicate "bow armed|" / "no ranged" custom labels.
+
+Version 4.3.20 (Module Checksum: 4fb8da81)
+[ux] Scenario 210 configuration correction (Gray blocks added to Roman side).
+
+Version 4.3.19 (Module Checksum: 8c23316d)
+[ux] Vassal 3.7.13 refresh to apply "empty stacks" fix, reducing game / module file size.
+[ux] Codex added for Expansion 1 games - so scenario home page links will work.
+
+Version 4.3.18 (Module Checksum: 3d748184)
+[ui] Click-o-matic aligned to unit pictograms (but for leaders remains anywhere on block).
+[fix] Passive side leader should respond to click even if alone (for targeting), regardless of move.
+[fix] Remove test setup option.
+[ux] Combat marker size reduced by 20%.
+[ux] Terrain, card & block outlines converted to svg (reduces module size by 60%).
+[ux] Sync integrity check: add check on total cards in game following the card deal.
+
+Version 4.3.17 (Module Checksum: f0ba87c2)
+[ux] Italian cards (images courtesy of Alessandro Crespi).
+[ux] Improved commandsandcolors.net donation tip.
+
+Version 4.3.16 (Module Checksum: 99d3028)
+[ux] Four scenarios added from the commandsandcolors.net archives (AT01-02, JT01 & JD151)
+[ux] Added commandsandcolors.net donations link (Help menu).
+[ux] Update to 009 & JD18 scenario notes, clarifying special card draw actions.
+[ux] Message improved for when Move First side is changed.
+[fix] Most fan scenarios dated AD were showing as BC in the browser.
+
+Version 4.3.15 (Module Checksum: 91d18ddf)
+[fix] Backward compatibility restored for versions prior to 4.3.14. v4.3.14 users must update.
+[ui] All Jim Duncan scenarios are now prefixed "JD" in the startup wizard.
+
+Version 4.3.14 (Module Checksum: 93cb831)
+[ux] Scenario Browser metadata added for JDxx scenarios.
+[ux] Scenarios JD26-JD100 now available.
+[ux] New Roman Civil Wars epic scenario: MK05
+[ux] Scenario missing starting draws configured: 210, BS10, JD23 & MMxx,
+[ux] Custom bow units use marker from C&C Medieval (e.g. sc. MMcG01)
+[ux] Always show custom labels before a game, regardless of user preference.
+[ux] Default custom unit label ("custom") only displays in setup or as hover-text.
+[ux] Improved (non-standard) rampart inner corner graphic.
+[ui] "Choose Scenario..." renamed to "Scenario Browser...] under File menu.
+[ui] Custom Greek & Spartan Medium unit allows up to 8-blocks.
+[ui] Selected "no ranged" Light Infantry & Auxilia custom units provided, marked with a dedicated icon.
+[ui] Scenario special "No shuffle" rule supported (Sc. JD43).
+[ui] Leader zoomed hover tied to unit zoomed hover (user preferences).
+[fix] Unit & Leader hover-text reorganised to fix a custom unit issue and improve ease of use.
+[fix] Light War Machine custom unit indicator graphic corrected.
+[fix] Carthaginian spelling corrected for Light Chariot.
+[fix] Internal Main board grid layout reorganised for Vassal 3.7 compliance.
+[fix] Scenario setup - "Add Army" message should include side being added to.
+[fix] Sc MM19 Army side fixed.
+[fix] Reset several scenarios to pre-start state, including name tags. Integrate reset tool with scenario save hotkey (Ctrl+S) and include an observer check.
+
+Version 4.3.13 (Module Checksum: 95db57d0)
+[fix] Sc 005: Mago name corrected.
+[ui] Help menu offers link to Scenario home page (Scenario build guide updated too).
+[ui] Improved Help reporting links.
+
+Version 4.3.12 (Module Checksum: 67ccee78)
+[fix] Sc 409: Substitute dedicated special piece for Praetorian Guard.
+[fix] Sc 410: Complete setup.
+[fix] Sc 423: Fix Order of Battle errors.
+[ux] Scenario Browser now includes a tournament listing (CACCA24). To select it, check Set, sort on the Scenario name column). Contact via Help...Request support if you'd like to add your tournament too.
+[ux] Help menu re-ordered for readability and consistency with future release of C&C Nap.
+
+Version 4.3.11 (Module Checksum: 52ad8229)
+[fix] A played First Strike would be "played" again by moving on the main board, leading to a duplicate re-draw at turn end.
+[fix] Correct First Strike "non reaction" source location report.
+
+Version 4.3.10 (Module Checksum: bfac70f7)
+[fix] Scenario 422 correction - Zenobia leader added.
+[fix] Debugger Window hotkey de-conflicted with Cmd+E (MacOS evade synonym)
+
+Version 4.3.9 (Module Checksum: ada6550f)
+[ux] Scenario MK04 added.
+[fix] Transparent terrain (Vassal feature) placed in dedicated layer above normal terrain.
+
+Version 4.3.8 (Module Checksum: ec17998b)
+[fix] Open hand solitaire game properly switches hand display to active player at end of turn.
+[fix] Module version corrected in support link.
+[ux] Tip added for Solitaire normal mode
+
+Version 4.3.7 (Module Checksum: 383832ff)
+[fix] First Strike replacement bug fixed (was causing infinite loop in opposed games).
+
+Version 4.3.6 (Module Checksum:7594ce04)
+[fix] Counter-Attack Section cards were not playing to correct part of normal format board.
+[fix] First Strike count checked before FS replacement action (in case of possible bug).
+[fix] A unit or leader moved to own VB track does not record hits. Movement between tracks adjusts accordingly for leaders (manual for units).
+[fix] Initial standard setup had Tan already as an "Allied Army".
+[UX] MF series added to catalogue. Scenarios MF01-MF08 added.
+
+Version 4.3.5 (Module Checksum: b8973234)
+[UI] CDG Solo end turn will replace First Strike (no longer locks end turn buttons when First Strike is played).
+[fix] Missing leaders added to scenario 424.
+[fix] Persian Immortals indicated as range 3 (bow-armed) along with Eastern Bow-armed camels from scenario MMcG01.
+[UI] PgUp synonymous with Ctrl+Z (UnDo).
+
+Version 4.3.4 (Module Checksum: aae1f39d)
+[fix] Player aids correction: Barbarian Light Chariot may ignore 1 flag at full strength. (see  Expansion 2 rules).
+[fix] Minor updates to Module Hotkeys help.
+[UX] Scenario MMcG02 optional special rule added.
+
+Version 4.3.3 (Module Checksum: 1737d682)
+[fix] Removed a debug text message from card mouse-over.
+[UX] Sync check, optional experimental integrity check for online games (enabled by default); performs check on the current player's instance each time a card is played.
+
+Version 4.3.2 (Module Checksum: aeef5a1f)
+[fix] Scenario 410 (reinforcements moved for convenience).
+[fix] Tidy up Solo mode startup action button disabling (partial bug fix in Vassal v3.6.15).
+[fix] Terminology: Leader Casualty Check.
+[fix] Replace hidden Cmd+1/Cmd+2 end turn hotkeys with suite of hotkey re-directs (for MacOS, but will work with equivalent Meta key on other OS).
+[fix] (CDG Solo mode) Minor correction to Deferred/Cancelled Command size alignment log messages.
+[fix] Remove redundant properties (handState & gNoDraw[n]).
+[fix] Update to Click-o-matic moved pieces check to rely on Moved default GP.
+[fix] "Order One" CDG solo end turn action should only draw 1 face up card.
+[fix] Auto-complete game start during / after manual initial card draw.
+[UX] New Epic scenario: MK03 - Pharsalus, 48 BC.
+[UX] (Solo mode) Max Hand Size marker raised above number.
+[UX] Don't automatically show hand windows when switching to Solitaire in opposed game mode.
+[UX] Expansion Rules Help redirects to new rules page instead of forum post.
+[UX] Minor text update to LCC hint.
+[UX] Section cards play to correct part of normal format board.
+
+Version 4.3.1 (Module Checksum: f755ff47)
+[fix] Revert to not clearing combat phase when laying a Target Marker (ensures "Battled" marker placement at end of combats).
+
+Version 4.3.0 (Module Checksum: 9fd2bbd1)
+[fix] Solo mode should present only the first cards in slots A & B as face up.
+[fix] Deal cards button will simultaneously deal both hands of cards & is restricted to active side.
+[fix] Solo mode: Command increase / decrease handled per specific rules.
+[UI] Solo mode: Command track limited to 1 minimum.
+[UX] Solo mode: Command size mouseover shortened.
+[UI] Automatic start when Solo mode selected (optional).
+[UI] Ctrl+S is now a hotkey for scenario re-configuration until game start. Scenario mouse-over includes hint.
+[UX] Game started event is now the card deal.
+[UI] Solo mode: Second cards in a slot are drawn to the second row (i.e. no stacking; stack offset reduced to discourage this).
+[UI] Power of Three solo mode added.
+[UI] Ordering an attached leader orders/unorders the underlying unit.
+[UX] Draw & End button lock does not kick in for solo mode games (module is automatic; extra card drawing is not required but player may override).
+[UI] SSR "Virtual Card" is now configured via the Scenario title piece (e.g. scenario JD11)
+[UI] First Strike can be played as a command card in the standard game (not clickable except for battle use).
+[fix] Scenario 107, 410, C3i04 & MMcG02 corrections.
+[fix] Vassal update conformance for v3.6.12.
+[fix] Scenario Chooser update (module internals better organised)
+[UX] Card manifest includes card location (hidden information is not revealed).
+[UI] Leader check also initiated by direct Ctrl+H command, once game is started.
+[fix] Delete of Leader Check marker (now the "Cancel" command) resets the dice ribbon as well.
+[fix] Correct mounted unit consolidated chart (HCH ignore 1 XSW).
+[fix] Hit command will cause stacked leader to de-select (required so that auto-Detach feature works seamlessly when the other player performs Leader Check).
+[fix] Epic banner space labels updated for V3.6.13 refresh compatibility.
+[UI] Improved support for Bonus Combat; Target markers clear when target piece is moved; Target command open combat phase (as Attack command already does).
+[UX] Removed module's "player joins" message as superseded by Vassal feature.
+[UI] Click-o-Matic operational for previously active player before current turn's card is played.
+[UI] "back turn" feature removed - previous combat phase may be resumed without undoing turn end, until opponent play's a card.
+[UX] Improved readability of Hits/Recovery chat messages.
+[UX] Improved side confirmation message. Colour-coded player names.
+[UX] LoS message removed. LoS now snaps to grid.
+[UI] Player Side checks include initial connections; blank Player Names also checked.
+[UI] (Epic) Field Generals can join after game starts.
+[UX] Starting Command size included in mouse-over of the card icon, when different from starting value.
+[UX] Color of Command size text indicates change from starting value (blue for under, yellow for above). Epic opposed games only.
+[UX] Mouse-over shows range for extended (>2) range units.
+
+Version 4.2.6 (Module Checksum: 9eda6374)
+[fix] Solitaire role now also defaults to Solo mode for new game from external files and scenario 
+chooser.
+[fix] Scenario MK02: Restored Solitaire access & corrected Notes.
+[UX] Scenario 412, 423, 604, ML02: minor edits.
+
+Version 4.2.5 (Module Checksum: 47827f04)
+[UX] Combat accelerators enhancement - leader will auto-detach after failed leader check or when unit is to be eliminated.
+[UX] Unit will attach below a leader.
+[UX] Hex map layout defined.
+[UX] Command size displayed for Solitaire too.
+[UX] Drag to (standard) hand reporting cleaned up.
+[UX] Tutorial added to Help menu and for new users.
+[UX] Augmented end turn tips.
+[UI] Discard is disabled whilst a card play is pending. Random discard works for any number of cards.
+[UI] Draw & End buttons lock when a card is drawn to active hand, preventing accidental use (except Epic Draw 3 & Choose phase).
+[UI] Hidden commands for card draw are now protected from accidental use.
+[UI] Combat Hotkeys - Solitaire now applies hits from perspective of active side (e.g. Ctrl+2 applies 2 hits to Attack-marked piece).
+[fix] Scenario 003 restored.
+[fix] Scenario JB11: side colour corrected.
+[fix] Scenario DC09: Antiochus HCH corrected to HC (see c&ca .net forum thread).
+[fix] Scenario MK01: minor (spelling).
+[int] Common stubs for missing and unsupported scenarios.
+[UX] New scenario MK02 added.
+[fix] Loophole in card play tracking could block end turn after a re-shuffled card was drawn.
+[fix] Switching between standard game and CDG Solo method was not handling pre-dealt cards consistently between the two player hands.
+[fix] Remove text label from CounterAttack piece name (Epic)
+[fix] Discard pile drag and drop restriction was not preventing a card drawn from the pile and immediately dropped back.
+[fix] Epic Order 1 end turn action: "Take to Hand" was sending First Strike to the wrong hand.
+
+Version 4.2.4 (Module Checksum: 91c598d7)
+[UI] Easier to switch over the "Move First" side (support for variable Move First scenarios).
+[UI] Start draw is configurable via Scenario title. All preset scenarios are configured. Start game messaging modified to reflect this feature.
+[UX] Spartan blocks retrofitted into Exp 1 scenarios. Ref: https://www.commandsandcolors.net/ancients/the-game/game-boxes/expansion-6/938-retrofitting-expansion6-blocks-into-expansion1.html
+[fix] Lost block count must not reset once game starts (first card play only).
+[fix] Scenarios JD10, JD104 and TT04 were missing or incorrectly assigned.
+[fix] Scenarios JD144 & JD145 special heavy infantry strength corrected.
+[fix] Scenario JD09 title corrected.
+[fix] Scenario JD11 brown blocks added to Galatian side for lost block count.
+[UI] Add/Remove Army options are for scenario setup only. 
+[UI] Orders by die roll (Scenario 310).
+[fix] Click to evade now works after bonus combat. Click to stand removed.
+[doc] Module user guide & Scenario build guide updated.
+
+Version 4.2.3 (Module Checksum: 8dc33988)
+[fix] Backward compatibility fix (missing v4.1 assets restored). Note: compatibility is view-only!
+[fix] Units dragged to victory track trigger a consolidated hits action rather than individual hits.
+
+Version 4.2.2 (Module Checksum: 2cce49f1)
+[new] Scenario MMcG02 Epic Sentinum added.
+[fix] Turn end malfunctioned after a manual re-shuffle.
+[fix] Preference defaults for block visuals set to "Number" and "Unit Code" enabled, per previous version of the module.
+
+Version 4.2.1 (Module Checksum: 8a3e49a6)
+[fix] Move of Epic card between slots no longer resets lost block counts.
+[fix] Scenarios GC02 and MMcG01: game clock can be enabled.
+
+Version 4.2.0 (Module Checksum: db67adc5)
+This release brings a large content update and some new gameplay features along with a number of fixes.
+* Scenario catalogue: all scenarios added on CommandsandColors.net since v4.1 are now in the catalogue, along with some data corrections. The custom code for the scenario catalogue is now updated for future Vassal compatibility. Thanks to Ale for his help with getting this set of changes sorted.
+* 110+ pre-set scenarios added! Some previously only available in pre-V4 modules, and others newly created from the description on the designer pages. The full list is: JB01-JB16, BR04-BR07, JD01-JD25, JD101-JD150, ML01-ML06 (Alesia campaign), TT36-49, Epic Magnesia and  Epic Ilerda (by Mark McG & Michal K respectively) and two scenarios from Keith Barker's Invasion of Britain campaign.
+* Fixes:
+	Scenario 013 - missing Roman leader
+	Scenario 416 - correction to scenario notes
+	Scenario DC11 - map updated in line with scenario notes
+	Scenario BR04 - replaced with designer's revised version
+	Scenario BS09 - siege engines corrected
+	Lost blocks count now include leaders & secondary coloured blocks in multi-Army sides
+	Wagon blocks re-modelled to a "lay flat" perspective and for a better fit on the board
+	Standard deck "Mounted Charge" card corrected/clarified
+	Added minor markers and pieces used in custom scenarios
+	Epic cards drawn to the board are now drawn face down (fix for Order 1 action)
+	Scenarios that had become unlinked from the module in version 4 (unable to be maintained) have been fixed.
+Thanks to those who reported the scenario errors on the forums.
+* Help resources improved; card manifest added for both game formats, more module help and rules links, updated user guide. Player aids reorganised and consolidated terrain and unit lists added (acknowledgement for material from boardgamegeek posts by Andrew Korson and Douglas Triggs).
+* Main toolbar updates: player hand icons indicate side of board, "side chooser" tool, more dice, combat accelerators menu, "draw card and end turn" buttons and a game options menu. Game clocks are available as an option (see below). Additional buttons in the hand windows for card drawing and random discard.  Hover over a button to see a tooltip about it. Toolbar hints now use symbols for modifier keys, rather than text.
+* Hotkeys added for commonly used features, including ability to apply multiple hits and other combat commands without selecting the unit. See Help...Module Hotkeys for details. Toolbar items include reminders of hotkey alternatives. Hits applied via hotkeys will generate a leader check reminder if the affected unit has an attached leader.
+* New features:
+i) Player tags and on screen Command size displays. Note that tags will automatically adjust to player count once a game starts and can be hidden at player option (Shift+F7).
+ii) Enhanced dice rolling features.
+iii) Card command restrictions provide a guide to valid play (mainly for Epic). Epic now has a distinct "Play as Army card" command.
+iv) Special Unit Marker and mouse-over text used in place of text labels (option, on by default).
+v) Suite of configurable unit pieces is available to scenario designers for units with special features (see Help...Scenario Building Guide).
+vi) Click on blocks to Order or mark for combat (option, on by default).
+vii) Block setup commands are hidden on the main board, once a card is moved from hand.
+viii) Card draw buttons integrate with special card effects on card drawing and re-shuffling.
+ix) Either side can complete card draw and end turn actions, aiding PBEM use.
+x) Tournament mode (lost block count) now integrated on the toolbar as a game option.
+xi) Game clocks appear at the start of a new game, if this option is selected before the first card is played. Clocks automatically switch at turn end but can also be paused (F8) or switched manually (click on a clock).
+xii) End of turn "tips" from Caesar and Alexander.
+xiii) GMT’s CDG Solo System integrated into the module (start a new game as Solitaire).
+xiv) Games can be set up to play as a face-down discard variant.
+* Some multi-modifier v4.1 shortcuts now just use a single modifier key (affects 1 block setup command and the 3 play to section card commands in Epic).
+* Many features can be tailored to user preference. Investigate the Preferences...Game Options panel for more details.
+* A short guide gives more information to help convert or build new scenarios. All built-in scenarios have been converted and should be correct. Please use the Module Support forum to report any scenario errors found.

@@ -1,0 +1,46 @@
+V4.1f2 Release Notes
+Module Checksum:
+
+This release is mainly a content update, focussed on scenarios and help resources. Optional hotkeys added for player convenience.
+
+1) Scenario catalogue: all scenarios added on CommandsandColors.net since v4.1 are now in the catalogue, along with some data corrections. The custom code for the scenario catalogue is now updated for future Vassal compatibility. Thanks to Alessandro Crespi for his help getting this set of changes done.
+
+2) 20 Vassal pre-set scenarios, previously only available from  CommandsandColors.net, are now available directly from the module: BR04, JD08, JD10, JD103 and JB01 to JB16
+
+3) Vassal pre-set scenario corrections:
+	013 - missing Roman leader
+	416 - correction to scenario notes
+Thanks to those who reported these errors.
+
+4) Help Menu - expanded to include more module help and rules links.
+
+5) Hotkeys added:
+Ctrl+Z 		UnDo
+Alt+R 		Retire / Switch sides
+esc		Show/Hand Player Hand (Player 1 or Player 2 only)
+Shift+esc	Show Hand(s)
+F1 		Show/Hide Player Aids
+Shift+F1 	Show/Hide Notes
+F7 		Terrain View on/off (old hotkey was a Ctrl+Shift+H - that is now hidden but still works)
+F12		End turn/Clear board
+Shift+F12	As F12 but first draws 1 card if player side is "Player 1" or "Player 2"*
+Alt+F		Draw card to visible hand(s)
+Ctrl+E		Mark target "evade" (no unit selection required)
+Ctrl+S		Mark target "stand" (no unit selection required)
+Ctrl+V		Clear attack marker when no unit selected
+
+*This change does not affect existing use; toolbar buttons continue to work as before. The Shift+F12 action only draws 1 card before ending the turn; other card draws (Epic and First Strike) and I am Spartacus re-shuffle actions must first be performed separately.  Tool-tips on the hour-glass and draw card buttons draw attention to the feature.
+
+6) End of turn sound effect (bell sound) added. May be turned off, along with all other module sound effects, using the "Mute module sounds" checkbox on the Preferences...Sounds tab.
+
+7) Epic draws face down (required for Order 1 cards). Cards drawn via action button / hotkey are flipped face up in hand.
+
+8) Epic dice chat/graphic reverse order fix and enhancements
+
+9) Player Hand layout improved. Multi-draw button.
+
+10) Tags ?
+
+11) Epic on screen Command size ?
+
+
